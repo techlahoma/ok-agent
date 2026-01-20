@@ -1,6 +1,6 @@
 ---
 type: session
-title: "AI in Government"
+title: "Example: AI in Government"
 speaker: "[[speaker-tristan-kilgore]]"
 date: TBD
 time: TBD

@@ -1,6 +1,6 @@
 ---
 type: speaker
-name: "Tristan Kilgore"
+name: "Example Tristan Kilgore"
 organization: ""
 role: ""
 tags:
