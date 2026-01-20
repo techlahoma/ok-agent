@@ -1,0 +1,21 @@
+# Prevent RepoMix from processing its own outputs
+_repomix-output/
+**/repomix-output.*
+**/vault-rollup.*
+
+# Exclude system files
+.git/
+.github/
+.obsidian/
+
+# Exclude personal notes
+05-Personal/
+Personal/
+
+# Exclude OS files
+.DS_Store
+*.tmp
+*.log
+
+# Exclude attachments (link to them instead)
+Attachments/

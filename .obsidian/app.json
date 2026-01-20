@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "03-Content",
+  "attachmentFolderPath": "Attachments",
+  "showUnsupportedFiles": false,
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "useTab": false,
+  "tabSize": 2,
+  "readableLineLength": true
+}

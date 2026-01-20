@@ -1,0 +1,32 @@
+# Obsidian workspace settings
+.obsidian/workspace*
+.obsidian/plugins/*
+
+# Personal notes (per-user)
+05-Personal/
+Personal/
+**/personal-notes/
+
+# OS files
+.DS_Store
+.vscode/
+
+# Git plugin cache
+.obsidian-git-data
+
+# Temporary files
+.trash/
+*.tmp
+Untitled*
+
+# Conflicts (handled manually)
+conflict-files-obsidian-git.md
+
+# Node modules (if running repomix locally)
+node_modules/
+
+# DO NOT ignore:
+# - .obsidian/app.json (shared settings)
+# - .obsidian/community-plugins.json (plugin list)
+# - .obsidian/core-plugins.json (core plugins)
+# - _repomix-output/ (we want to commit rollups)

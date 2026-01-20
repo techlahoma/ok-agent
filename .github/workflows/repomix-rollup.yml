@@ -1,0 +1,87 @@
+name: RepoMix Vault Rollup
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '_repomix-output/**'
+  workflow_dispatch:
+
+jobs:
+  repomix-rollup:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Check if last commit was auto-generated
+        id: check_commit
+        run: |
+          LAST_COMMIT_MSG=$(git log -1 --pretty=format:'%s')
+          if [[ "$LAST_COMMIT_MSG" == *"[skip ci]"* ]]; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create output directory
+        if: steps.check_commit.outputs.skip != 'true'
+        run: mkdir -p _repomix-output
+
+      - name: Setup Bun
+        if: steps.check_commit.outputs.skip != 'true'
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install RepoMix
+        if: steps.check_commit.outputs.skip != 'true'
+        run: bun install -g repomix
+
+      - name: Generate full vault rollup
+        if: steps.check_commit.outputs.skip != 'true'
+        run: |
+          repomix \
+            --include "01-Primary-Categories/**/*.md,02-Secondary-Categories/**/*.md,03-Content/**/*.md" \
+            --output "_repomix-output/full-vault-rollup.md" \
+            --style markdown
+
+      - name: Generate sessions-only rollup
+        if: steps.check_commit.outputs.skip != 'true'
+        run: |
+          repomix \
+            --include "03-Content/sessions/**/*.md" \
+            --output "_repomix-output/sessions-only.md" \
+            --style markdown
+
+      - name: Generate speakers-only rollup
+        if: steps.check_commit.outputs.skip != 'true'
+        run: |
+          repomix \
+            --include "03-Content/speakers/**/*.md" \
+            --output "_repomix-output/speakers-only.md" \
+            --style markdown
+
+      - name: Check for changes
+        if: steps.check_commit.outputs.skip != 'true'
+        id: check_changes
+        run: |
+          git add _repomix-output/
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit RepoMix outputs
+        if: steps.check_commit.outputs.skip != 'true' && steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "[skip ci] Auto-update RepoMix vault rollups"
+          git push
