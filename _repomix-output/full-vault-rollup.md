@@ -47,6 +47,9 @@ The content is organized as follows:
   02-Venue-Details.md
   02-Workshops.md
 03-Content/
+  resources/
+    references/
+      Emily 200ok 2026.md
   sessions/
     session-ai-in-government.md
     session-data-governance.md
@@ -530,6 +533,5214 @@ Each workshop has specific prerequisites. Check the individual session page for:
 - [[02-Technical-Sessions]]
 - [[02-Keynotes]]
 - [[01-Resources]]
+```
+
+## File: 03-Content/resources/references/Emily 200ok 2026.md
+```markdown
+**Sam**: I don't know. I don't know how well I'm going to be able to take notes on this.
+*00:00*
+
+**Sam**: It's fair.
+*00:02*
+
+**Sam**: Have we been making money on it, first of all?
+*00:03*
+
+**Emily Harden**: I think the best year we made $15,000.
+*00:07*
+
+**Sam**: Oh.
+*00:10*
+
+**Emily Harden**: Worst year, we made like $2,000 to $5,000.
+*00:13*
+
+**Sam**: But we always make money.
+*00:15*
+
+**Emily Harden**: Yes, if you didn't count my time, yes.
+*00:17*
+
+**Emily Harden**: Which Max basically handles, he handled a lot of that, right?
+*00:22*
+
+**Sam**: Yeah.
+*00:27*
+
+**Sam**: Well, he was saying, he was telling me he'll handle MC things, he'll handle some other stuff, but he can't do any of the Emily stuff.
+*00:27*
+
+**Sam**: I'm like, okay.
+*00:35*
+
+**Emily Harden**: Yeah.
+*00:36*
+
+**Sam**: Well, I can figure that out, I think.
+*00:37*
+
+**Emily Harden**: So, Emily's stuff for 200K was setting up the ticketing system, right?
+*00:40*
+
+**Sam**: It's Tito, right?
+*00:48*
+
+**Emily Harden**: We used Tito.
+*00:49*
+
+**Emily Harden**: Setting up the call for papers in the first place.
+*00:53*
+
+**Emily Harden**: We use SessionEyes.
+*00:55*
+
+**Emily Harden**: I think you could use Paper Call or you could use SessionEyes.
+*00:57*
+
+**Emily Harden**: I think we got better speaker selections with SessionEyes, but it's $500.
+*01:00*
+
+**Sam**: So my strategy with that is to not do speaker call.
+*01:06*
+
+**Emily Harden**: You could do that, too.
+*01:11*
+
+**Sam**: I'm going to – I talked with Kevin.
+*01:11*
+
+**Emily Harden**: Kevin.
+*01:15*
+
+**Sam**: From NVIDIA.
+*01:16*
+
+**Emily Harden**: Okay.
+*01:17*
+
+**Sam**: And I was like, hey, do you think you could do a talk in May?
+*01:18*
+
+**Sam**: He's like, I think so.
+*01:20*
+
+**Sam**: So I'm going to stack up Kevin.
+*01:21*
+
+**Sam**: I'm going to stack up April from Microsoft.
+*01:23*
+
+**Emily Harden**: That sounds really cool.
+*01:26*
+
+**Emily Harden**: I'm going to give you the heads up.
+*01:27*
+
+**Emily Harden**: You're going to get pushback, at least from Max, for that.
+*01:28*
+
+**Emily Harden**: Probably.
+*01:32*
+
+**Sam**: No, Max was open to it.
+*01:33*
+
+**Sam**: I already talked about it.
+*01:33*
+
+**Emily Harden**: Okay.
+*01:34*
+
+**Emily Harden**: Okay.
+*01:35*
+
+**Sam**: Well, great.
+*01:36*
+
+**Emily Harden**: I always got pushback with some of that stuff because you and you're okay with the People's
+*01:38*
+
+**Emily Harden**: Conference, where they really liked everyone got to vote on the topics they wanted to hear.
+*01:43*
+
+**Emily Harden**: They liked that aspect.
+*01:48*
+
+**Emily Harden**: Max actually has a baby as opposed to a fake baby of 200K now, you know?
+*01:51*
+
+**Emily Harden**: So, like, he might care less.
+*01:57*
+
+**Emily Harden**: Like, 200K was his baby, and now he has, like, a baby.
+*01:59*
+
+**Emily Harden**: You know?
+*02:03*
+
+**Emily Harden**: Like, so...
+*02:04*
+
+**Emily Harden**: He might not have as much care about it.
+*02:07*
+
+**Sam**: Let's go to that.
+*02:11*
+
+**Emily Harden**: I do think he might still have the domain.
+*02:14*
+
+**Emily Harden**: I don't remember.
+*02:17*
+
+**Emily Harden**: Yeah.
+*02:18*
+
+**Sam**: I'm going to set up, I've been using it because I don't have a prospectus built out yet.
+*02:21*
+
+**Emily Harden**: Yeah.
+*02:28*
+
+**Sam**: So I just send them that for sponsors and speakers just to like, hey, here's an idea of what to expect.
+*02:29*
+
+**Emily Harden**: I have some sponsored prospectuses in technical folders.
+*02:35*
+
+**Emily Harden**: Okay.
+*02:39*
+
+**Emily Harden**: The more I think about it, there are a couple of different methods you can use.
+*02:43*
+
+**Emily Harden**: We tried custom building sponsor packets for bigger sponsors
+*02:49*
+
+**Sam**: Right back up
+*02:58*
+
+**Sam**: I remember the weird thing I did with that water dispenser.
+*03:26*
+
+**Sam**: So you hold your hand in front of the cold one, and you put your hand under the cold one where your hand is.
+*03:30*
+
+**Sam**: And it starts, water starts coming out here.
+*03:36*
+
+**Emily Harden**: Oh, yeah.
+*03:38*
+
+**Emily Harden**: I put it in the middle, but I was thinking it might come out on the right.
+*03:39*
+
+**Emily Harden**: I was concerned.
+*03:43*
+
+**Emily Harden**: So, um, we tried building custom-sponsored things.
+*03:48*
+
+**Emily Harden**: Like, we think these people can give us 20K, so let's build a giant thing.
+*03:55*
+
+**Emily Harden**: they never worked out
+*04:02*
+
+**Emily Harden**: what worked
+*04:05*
+
+**Emily Harden**: the best
+*04:07*
+
+**Emily Harden**: most recently was
+*04:08*
+
+**Emily Harden**: cheap
+*04:10*
+
+**Emily Harden**: can buy online
+*04:12*
+
+**Emily Harden**: easy
+*04:14*
+
+**Emily Harden**: $500,000
+*04:15*
+
+**Emily Harden**: $2000
+*04:17*
+
+**Emily Harden**: I've been looking at a bunch of conferences
+*04:23*
+
+**Emily Harden**: lately so I'm looking at what other conferences
+*04:25*
+
+**Emily Harden**: are doing
+*04:27*
+
+**Emily Harden**: they do a little bit of regular sponsorships
+*04:29*
+
+**Emily Harden**: but a lot of times it's
+*04:32*
+
+**Emily Harden**: this much
+*04:35*
+
+**Emily Harden**: to pay for breakfast
+*04:36*
+
+**Emily Harden**: this much to pay for lunch
+*04:37*
+
+**Emily Harden**: to be that sponsored
+*04:40*
+
+**Emily Harden**: that worked
+*04:42*
+
+**Emily Harden**: they seem to be working well
+*04:43*
+
+**Emily Harden**: I don't know
+*04:45*
+
+**Emily Harden**: but like one of the conferences
+*04:49*
+
+**Emily Harden**: I think it's in March
+*04:51*
+
+**Emily Harden**: it's already sold out
+*04:53*
+
+**Emily Harden**: almost every sponsorship spot
+*04:54*
+
+**Emily Harden**: It has.
+*04:56*
+
+**Emily Harden**: And I was like, okay, well, obviously something's working there.
+*04:57*
+
+**Emily Harden**: And those were big sponsorship slots.
+*05:00*
+
+**Emily Harden**: They were like 2K minimum sponsorship slots.
+*05:03*
+
+**Emily Harden**: Yeah.
+*05:06*
+
+**Emily Harden**: Something sponsors tend to want and we never have done is give the attendee data.
+*05:09*
+
+**Emily Harden**: So something we had talked about doing was putting a checkmark in the ticketing system that they could opt in or opt out to sponsor emails.
+*05:18*
+
+**Sam**: Oh, for the attendees.
+*05:32*
+
+**Emily Harden**: Yeah.
+*05:34*
+
+**Emily Harden**: So the attendee could opt in to receive sponsor emails.
+*05:35*
+
+**Emily Harden**: You write something that says, like, this helps keep our costs low or whatever.
+*05:40*
+
+**Sam**: And then they get that list.
+*05:43*
+
+**Emily Harden**: right
+*05:48*
+
+**Emily Harden**: because that was so
+*05:51*
+
+**Emily Harden**: the effect we got once
+*05:52*
+
+**Emily Harden**: um
+*05:54*
+
+**Emily Harden**: atlas works well for the
+*05:57*
+
+**Emily Harden**: size I think
+*06:00*
+
+**Emily Harden**: of the conference
+*06:02*
+
+**Emily Harden**: and they were always willing
+*06:04*
+
+**Emily Harden**: to do it for free slash sponsor us
+*06:06*
+
+**Sam**: yeah they took I think they
+*06:08*
+
+**Emily Harden**: gave us 5k last
+*06:10*
+
+**Sam**: year and we gave it they were the venue
+*06:12*
+
+**Sam**: and as a sponsor yeah
+*06:13*
+
+**Sam**: I need to talk with who would you talk to
+*06:15*
+
+**Sam**: usually goes to Libby directly or?
+*06:18*
+
+**Emily Harden**: No.
+*06:20*
+
+**Emily Harden**: They have a new person.
+*06:23*
+
+**Emily Harden**: It's not Amelia and it's not Libby.
+*06:25*
+
+**Emily Harden**: I don't remember who it is.
+*06:28*
+
+**Emily Harden**: But you can probably talk to Libby
+*06:32*
+
+**Emily Harden**: and she can tell you who to talk to
+*06:33*
+
+**Emily Harden**: or talk to Amelia and she can tell you who to talk to.
+*06:34*
+
+**Emily Harden**: I always go to Amelia and then she's like,
+*06:36*
+
+**Emily Harden**: no, you're supposed to talk to this person.
+*06:38*
+
+**Emily Harden**: I'm like, okay.
+*06:39*
+
+**Sam**: I've been considering, just because Max,
+*06:41*
+
+**Sam**: one of his things was just like he wanted a new venue.
+*06:42*
+
+**Emily Harden**: Yeah.
+*06:47*
+
+**Sam**: So, GitWit has been very, not just accommodating, but just like, please, we want to use TechLahoma
+*06:47*
+
+**Sam**: stuff.
+*06:59*
+
+**Emily Harden**: Okay.
+*07:00*
+
+**Sam**: It's just been very direct.
+*07:01*
+
+**Sam**: Like, we need software.
+*07:02*
+
+**Emily Harden**: Does GitWit have enough space for that?
+*07:03*
+
+**Sam**: Have you been in their space?
+*07:06*
+
+**Emily Harden**: Yeah.
+*07:07*
+
+**Emily Harden**: Like, I think I have enough space for like 75, which is typically 200K size.
+*07:09*
+
+**Sam**: Yeah.
+*07:14*
+
+**Sam**: Like, I was thinking that, and if it's more than 75, it's kind of a good problem.
+*07:14*
+
+**Emily Harden**: Well, you could always do.
+*07:22*
+
+**Emily Harden**: So there's a couple of miscellaneous things that have been tossed around.
+*07:25*
+
+**Emily Harden**: One is having, because Atlas wants to underkill,
+*07:30*
+
+**Emily Harden**: So having like the night before or the day before a mini conference specifically for
+*07:35*
+
+**Emily Harden**: Atlas students where you have some of those speakers giving talks, right?
+*07:44*
+
+**Emily Harden**: Okay.
+*07:49*
+
+**Emily Harden**: And then the 200K itself is professional, right?
+*07:50*
+
+**Emily Harden**: It's a higher level process because we get pushback.
+*07:54*
+
+**Emily Harden**: We got pushback every year of like where it's too profound.
+*07:59*
+
+**Emily Harden**: It's too deep.
+*08:02*
+
+**Emily Harden**: It's not deep enough.
+*08:03*
+
+**Emily Harden**: It's too deep.
+*08:03*
+
+**Emily Harden**: It's not deep enough.
+*08:04*
+
+**Emily Harden**: And when you have all students, it's going to be too deep for them.
+*08:05*
+
+**Emily Harden**: So give them like a little pop.
+*08:09*
+
+**Emily Harden**: Let Atlas pay for that.
+*08:12*
+
+**Sam**: I like that.
+*08:14*
+
+**Emily Harden**: Right.
+*08:15*
+
+**Emily Harden**: We also talked about now that you have a TechLahoma membership, right,
+*08:19*
+
+**Emily Harden**: the first 10, 15 people that show up get to have lunch with the speakers.
+*08:23*
+
+**Emily Harden**: And you set aside a place specifically for speaker lunch that the speakers can opt in around.
+*08:28*
+
+**Emily Harden**: But the professional...
+*08:35*
+
+**Sam**: Max was telling me about a speaker dinner the night before.
+*08:37*
+
+**Emily Harden**: Yeah, so typically the night before we host a speaker dinner, just like a thank you dinner.
+*08:41*
+
+**Emily Harden**: When budget allows, we let volunteers attend too.
+*08:46*
+
+**Emily Harden**: When budget allows, we let spouses of volunteers attend and stuff, right?
+*08:49*
+
+**Emily Harden**: But budget hasn't allowed for a couple of years now.
+*08:53*
+
+**Emily Harden**: It's typically first drink on us, food on us, and a couple laps.
+*08:59*
+
+**Emily Harden**: I think the most we've ever spent was $1,000 on that.
+*09:06*
+
+**Emily Harden**: I would budget as if every speaker is coming, but most speakers don't arrive until 8 or 9.
+*09:12*
+
+**Sam**: And then you really pay for what they...
+*09:21*
+
+**Emily Harden**: Right. We only pay if they actually attend the speaker dinner, because that's the option for the pre-dinner.
+*09:24*
+
+**Sam**: What are the venues you guys have used in the past?
+*09:30*
+
+**Sam**: Like the restaurants?
+*09:33*
+
+**Emily Harden**: The library.
+*09:34*
+
+**Emily Harden**: Oh, for food.
+*09:35*
+
+**Emily Harden**: Then you have for food.
+*09:35*
+
+**Emily Harden**: Mexicali.
+*09:37*
+
+**Sam**: Okay.
+*09:39*
+
+**Sam**: Well, the other part I really love about gateway is there's just so much around there.
+*09:40*
+
+**Emily Harden**: Yeah.
+*09:43*
+
+**Sam**: So, because there's a lot more flexibility as far as, like, food.
+*09:47*
+
+**Emily Harden**: Mexicali.
+*09:52*
+
+**Emily Harden**: Gosh, we've been doing Mexicali for the past two or three years.
+*09:58*
+
+**Emily Harden**: we did do other places
+*10:03*
+
+**Emily Harden**: and then we always did Welltown as the after party.
+*10:04*
+
+**Emily Harden**: Welltown's
+*10:08*
+
+**Emily Harden**: really good to us.
+*10:08*
+
+**Emily Harden**: You just put the Tecloma card
+*10:11*
+
+**Emily Harden**: on tap and then like
+*10:12*
+
+**Emily Harden**: you give tickets or wristbands or however
+*10:14*
+
+**Emily Harden**: you want to do it. I suggest tickets.
+*10:16*
+
+**Emily Harden**: And then eventually
+*10:20*
+
+**Emily Harden**: you ask Welltown, okay, what's the tab
+*10:22*
+
+**Emily Harden**: at? And then like
+*10:24*
+
+**Emily Harden**: alright, last round, that kind of thing.
+*10:26*
+
+**Emily Harden**: It's typically what I do.
+*10:28*
+
+**Emily Harden**: but we always came under budget there.
+*10:31*
+
+**Sam**: What's the estimated cost of a year?
+*10:33*
+
+**Sam**: Like, all in?
+*10:37*
+
+**Emily Harden**: There's a budget sheet floating around.
+*10:38*
+
+**Emily Harden**: I want to say it's $25 to $30.
+*10:42*
+
+**Emily Harden**: Where would I find that?
+*10:45*
+
+**Emily Harden**: It's in the Tucklahoma Drive.
+*10:46*
+
+**Emily Harden**: In conferences and $200.
+*10:48*
+
+**Sam**: Okay.
+*10:50*
+
+**Emily Harden**: I don't have my phone.
+*10:52*
+
+**Emily Harden**: I don't know why I'm calling it.
+*10:53*
+
+**Emily Harden**: We always budget too much for the food, not enough for the hotels, because we always book the hotels to board them.
+*10:58*
+
+**Sam**: That was the secret.
+*11:05*
+
+**Sam**: If I can do local speakers, I can skip hotels.
+*11:07*
+
+**Emily Harden**: Local speakers can skip hotels, which is nice.
+*11:11*
+
+**Emily Harden**: If you do have other speakers, they started using Hotel Engine,
+*11:14*
+
+**Emily Harden**: Which is like who you use if you're booking your company to go stay somewhere.
+*11:20*
+
+**Sam**: Yeah.
+*11:29*
+
+**Emily Harden**: And it's nice because you can book it with their name and then like you get all their confirmation information and stuff.
+*11:30*
+
+**Emily Harden**: But then they also get it and like it works pretty well.
+*11:38*
+
+**Emily Harden**: Flight wise, we always had them book their flight and we would reimburse.
+*11:45*
+
+**Emily Harden**: We would give a suggested amount that they should be under based on where they're from.
+*11:49*
+
+**Emily Harden**: So I would search and I'd be like, okay, these flights are $200 to $300.
+*11:54*
+
+**Emily Harden**: I'm going to say their max is $350.
+*11:58*
+
+**Emily Harden**: But they have to book general and not like first class.
+*12:01*
+
+**Emily Harden**: And if they book first class, that difference of expense is on that.
+*12:06*
+
+**Emily Harden**: No one ever did.
+*12:09*
+
+**Emily Harden**: Right.
+*12:11*
+
+**Emily Harden**: The biggest thing is if you do have other speakers, if you can get them to have their company pay for that.
+*12:13*
+
+**Emily Harden**: then you can just list their company as a friend of 200OK.
+*12:21*
+
+**Sam**: Like a partner?
+*12:26*
+
+**Emily Harden**: Yeah.
+*12:27*
+
+**Emily Harden**: Something that I've noticed now in more paper calls is there is a checkmark box of
+*12:30*
+
+**Emily Harden**: will your company be paying for your travel?
+*12:36*
+
+**Emily Harden**: And so if you do make a call for papers and you do list that,
+*12:40*
+
+**Emily Harden**: then you could in theory eliminate all the people who their companies that pay for travel
+*12:45*
+
+**Emily Harden**: and you don't have a budget
+*12:50*
+
+**Emily Harden**: very hard taco to eat what's that it's very difficult to eat while falling apart
+*12:58*
+
+**Emily Harden**: If you do have out-of-town speakers and you do book them in a hotel, I typically always
+*13:23*
+
+**Emily Harden**: made sure that they were walking as a group back to the hotel for speaker dinner or into
+*13:30*
+
+**Emily Harden**: the conference in the morning, or I would drive them myself.
+*13:35*
+
+**Emily Harden**: I feel comfortable in downtown Tulsa late at night.
+*13:41*
+
+**Emily Harden**: Oh yeah, yeah.
+*13:44*
+
+**Sam**: Yeah, that could be tricky.
+*13:46*
+
+**Emily Harden**: We do have magnets you can put on your car that are giant bison.
+*13:48*
+
+**Emily Harden**: So that you look like a little taxi.
+*13:53*
+
+**Emily Harden**: Oh.
+*13:56*
+
+**Sam**: Are those in the box in Carlos' office?
+*13:59*
+
+**Emily Harden**: They're either in there or in Oklahoma City.
+*14:01*
+
+**Emily Harden**: I always give speaker gifts.
+*14:07*
+
+**Emily Harden**: They were typically like a technical paint glass or a jacket or something.
+*14:11*
+
+**Emily Harden**: They always get the t-shirts and everything, but they also get something else.
+*14:18*
+
+**Emily Harden**: What we talked about doing too was maybe the speaker gift is
+*14:26*
+
+**Emily Harden**: a gift certificate for
+*14:36*
+
+**Emily Harden**: or some program they're trying to apply for.
+*14:39*
+
+**Emily Harden**: Like we talked about making them more specific to the speakers,
+*14:45*
+
+**Emily Harden**: but we've never done that.
+*14:47*
+
+**Emily Harden**: There's also a list of last-minute speakers if you ever need them.
+*14:54*
+
+**Sam**: Oh, where is that?
+*14:58*
+
+**Emily Harden**: It's in one of the canvases in Slack.
+*14:59*
+
+**Sam**: Okay, Slack canvas.
+*15:06*
+
+**Emily Harden**: Yeah.
+*15:07*
+
+**Emily Harden**: and
+*15:36*
+
+**Sam**: Oh, shoot.
+*15:38*
+
+**Sam**: Erin, Brian Hove, Ashley Coffey.
+*15:39*
+
+**Sam**: Oh, that would be good.
+*15:41*
+
+**Emily Harden**: These are people that are local that, like, would probably be willing to...
+*15:43*
+
+**Sam**: Can you screenshot that?
+*15:47*
+
+**Sam**: Text that to me?
+*15:48*
+
+**Emily Harden**: Mm-hmm.
+*15:48*
+
+**Emily Harden**: Yeah.
+*15:49*
+
+**Emily Harden**: I'm just going to get potatoes.
+*15:50*
+
+**Emily Harden**: You can also consider me on that list, but you know I don't do technical jobs.
+*15:54*
+
+**Sam**: No, well, that's...
+*15:59*
+
+**Sam**: Like, that's...
+*16:00*
+
+**Sam**: It's like when we did the anime with Kate, because she's a lawyer.
+*16:03*
+
+**Sam**: Right.
+*16:06*
+
+**Sam**: just like have a legal expert,
+*16:06*
+
+**Sam**: but you have a subject matter expert at a tech conference.
+*16:09*
+
+**Sam**: It's just like super power.
+*16:12*
+
+**Sam**: Because everything else is tech.
+*16:15*
+
+**Emily Harden**: We'll finish talking about 200K,
+*16:17*
+
+**Emily Harden**: but I want to talk about Tulsa Tech.
+*16:19*
+
+**Sam**: Like Tulsa Technology Center?
+*16:21*
+
+**Emily Harden**: Yes.
+*16:23*
+
+**Sam**: Oh.
+*16:24*
+
+**Emily Harden**: But let's finish talking about 200K.
+*16:25*
+
+**Sam**: Okay.
+*16:28*
+
+**Sam**: The best sources for attendees.
+*16:28*
+
+**Emily Harden**: Atlas was given students, right?
+*16:32*
+
+**Sam**: Yeah.
+*16:35*
+
+**Emily Harden**: Um, there's, on Tito, you can contact every previous 200-O-Pay attendee.
+*16:36*
+
+**Sam**: Okay.
+*16:41*
+
+**Emily Harden**: Um, you can also contact Lender Plains attendees.
+*16:42*
+
+**Emily Harden**: Some, we got some really random ones.
+*16:46*
+
+**Sam**: Does Tito work like MailChimp, where you can just send out emails from there?
+*16:50*
+
+**Sam**: Oh, perfect.
+*16:53*
+
+**Emily Harden**: Yeah, it's not, it'll say, is this relevant to this person?
+*16:54*
+
+**Emily Harden**: And, like, it'll flag him, like, yes.
+*16:59*
+
+**Emily Harden**: Yeah.
+*17:01*
+
+**Emily Harden**: But the thing is, is if you...
+*17:02*
+
+**Emily Harden**: It doesn't delineate between 2015 attendees, 2016 attendees,
+*17:05*
+
+**Emily Harden**: so you don't want to pull the full list and then send it,
+*17:10*
+
+**Emily Harden**: because otherwise they're going to get like six emails if they attend it every year.
+*17:14*
+
+**Emily Harden**: Yeah.
+*17:19*
+
+**Emily Harden**: Which I believe is pulled and is in our newsletter list.
+*17:20*
+
+**Emily Harden**: But...
+*17:25*
+
+**Background**: I was like, just looking at the store spot tape,
+*17:25*
+
+**Background**: then I was like,
+*17:28*
+
+**Background**: I gotta go and try this for me.
+*17:30*
+
+**Background**: Who has a super veggie wrap about onions?
+*17:31*
+
+**Background**: So the peppers and onions come in a place.
+*17:34*
+
+**Background**: Would you rather have no veggies or are you okay with no onions?
+*17:37*
+
+**Background**: I can see if he can do it in light, but they're all prepared together.
+*17:41*
+
+**Background**: So, okay.
+*17:45*
+
+**Sam**: What's the name we were just talking about?
+*17:58*
+
+**Sam**: Sources of attendees.
+*18:00*
+
+**Emily Harden**: Yes.
+*18:02*
+
+**Emily Harden**: City of Tulsa sends people.
+*18:04*
+
+**Emily Harden**: Like, if you contact...
+*18:06*
+
+**Sam**: How do they find out about it?
+*18:08*
+
+**Emily Harden**: I have no idea.
+*18:11*
+
+**Emily Harden**: I just look at the last to have their email address.
+*18:12*
+
+**Emily Harden**: I'm like, oh, they're from Williams.
+*18:15*
+
+**Emily Harden**: Oh, they're from City of Tulsa.
+*18:16*
+
+**Emily Harden**: Oh, they're from...
+*18:17*
+
+**Sam**: Okay, I could talk with some...
+*18:19*
+
+**Sam**: You know Brentum Todd?
+*18:22*
+
+**Emily Harden**: That name sounds familiar.
+*18:24*
+
+**Sam**: Brenton is the chief of staff for Mayor Monroe.
+*18:26*
+
+**Sam**: And I can ask him if they have a city list.
+*18:33*
+
+**Sam**: Like some kind of channel where we can share it to city people
+*18:37*
+
+**Sam**: and then just like promote it for the city officials that want to participate.
+*18:42*
+
+**Emily Harden**: I'm going to talk to tech students also.
+*18:48*
+
+**Sam**: How does that?
+*18:51*
+
+**Emily Harden**: I know a guy.
+*18:52*
+
+**Emily Harden**: Okay.
+*18:54*
+
+**Emily Harden**: He's Santa. His name is John Duffy.
+*18:55*
+
+**Emily Harden**: John Duffy.
+*18:58*
+
+**Emily Harden**: John Duffy.
+*18:59*
+
+**Emily Harden**: He's also
+*19:03*
+
+**Emily Harden**: Santa.
+*19:03*
+
+**Emily Harden**: I met him as Santa
+*19:06*
+
+**Emily Harden**: and then discovered he was stuck
+*19:07*
+
+**Emily Harden**: in the
+*19:11*
+
+**Emily Harden**: office office.
+*19:11*
+
+**Emily Harden**: It happens.
+*19:13*
+
+**Emily Harden**: He's my personal Santa.
+*19:15*
+
+**Emily Harden**: If I ever meet a Santa, I know I have a Santa.
+*19:16*
+
+**Emily Harden**: He's also a little rough around the office,
+*19:19*
+
+**Emily Harden**: but he's fine.
+*19:21*
+
+**Emily Harden**: Tulsa Tech loves us, and I'll get back to that in a minute.
+*19:25*
+
+**Emily Harden**: The board, I had them always mention.
+*19:31*
+
+**Emily Harden**: I tried to have them always mention if they were doing any speaking opportunities for them to mention to come to San Majuro way.
+*19:33*
+
+**Sam**: Oh, yeah.
+*19:39*
+
+**Emily Harden**: And then any Slack group you're a part of.
+*19:42*
+
+**Emily Harden**: So Gradient, Thai Pros, any of those.
+*19:46*
+
+**Emily Harden**: And then the newsletter.
+*19:53*
+
+**Sam**: okay yeah this is helpful that was the big thing i was like i was worried about i was just like
+*20:06*
+
+**Sam**: thinking about like okay how do we how do we get the attendees once we have the speakers generally
+*20:12*
+
+**Sam**: locked in and we have something for people to look at sometimes the speakers themselves bring
+*20:17*
+
+**Sam**: attendees. That's what Kevin was saying. He was like, I kind of want to walk in on the May date
+*20:21*
+
+**Sam**: because Kevin was like, yeah, I can come and I think I'm going to have some coworkers in town.
+*20:27*
+
+**Emily Harden**: May might also want to speak. Yeah. That would be great. When we did, we had Kent C. Dodds in Thunder Plains.
+*20:31*
+
+**Emily Harden**: People came from, at least one person, I think more than one, came from Kansas to Thunder Plains,
+*20:44*
+
+**Emily Harden**: to see Kent, and that guy continues to come to Thunderplanes every year now.
+*20:50*
+
+**Emily Harden**: That's sick.
+*20:56*
+
+**Emily Harden**: Yeah.
+*20:57*
+
+**Emily Harden**: So, you know, friends, like just LinkedIn community in general, sharing and posting.
+*20:58*
+
+**Emily Harden**: But, yeah, it's a lot of word amount.
+*21:15*
+
+**Emily Harden**: 200K is a lot of word amount.
+*21:17*
+
+**Sam**: Okay.
+*21:19*
+
+**Sam**: Where does the word about start usually?
+*21:20*
+
+**Sam**: Like how did it...
+*21:22*
+
+**Emily Harden**: Four.
+*21:23*
+
+**Sam**: I don't know.
+*21:24*
+
+**Emily Harden**: Then when...
+*21:29*
+
+**Emily Harden**: I will let you know, no one will buy their ticket or whatever.
+*21:31*
+
+**Sam**: Yeah, that was the thing with Thunderplanes.
+*21:34*
+
+**Sam**: There was like a big scare.
+*21:37*
+
+**Sam**: It was like a month out and we were like $10,000 short or something.
+*21:38*
+
+**Sam**: Every year.
+*21:41*
+
+**Emily Harden**: And I don't know how well, because I sometimes am stressed about it and sometimes I wasn't.
+*21:42*
+
+**Emily Harden**: every year, like, 50 to 75% of the tickets get bought in the spot.
+*21:49*
+
+**Emily Harden**: Okay.
+*21:55*
+
+**Emily Harden**: For the conference.
+*21:56*
+
+**Emily Harden**: You can try everything you want to do, like, early burn specials.
+*21:57*
+
+**Emily Harden**: But if you're doing GitWit, right, that location is limited.
+*22:03*
+
+**Emily Harden**: So you can save limited spots, right?
+*22:07*
+
+**Emily Harden**: Yeah.
+*22:10*
+
+**Emily Harden**: And, like, the first 20 people get it at this price.
+*22:10*
+
+**Emily Harden**: The second 40 people get it at this price.
+*22:13*
+
+**Sam**: assumption is even if we sell 200 tickets there's not gonna be 200 people there at once
+*22:15*
+
+**Emily Harden**: probably one 50 to 175 yeah but like like at any given time there's gonna there's gonna be like
+*22:20*
+
+**Emily Harden**: that happens but um occasionally you've hit in the full capacity right like it doesn't
+*22:28*
+
+**Emily Harden**: i had friends giving this year yeah i invite the same list every year i added like two people
+*22:37*
+
+**Emily Harden**: every year no not everyone can make it it's fine this year i had 26 people in my house
+*22:43*
+
+**Emily Harden**: i wasn't expecting that but everyone said yes
+*22:50*
+
+**Emily Harden**: so it happens
+*22:55*
+
+**Sam**: i guess we gotta i should talk with you about a plan to uh
+*22:59*
+
+**Sam**: for overflow yeah i'm i'm thinking that just that main like yeah step seating
+*23:06*
+
+**Emily Harden**: that's probably a 75 to 100 yeah and so it's like we have that we're good then we could just like
+*23:12*
+
+**Sam**: overflow with like people like if you put seats on that hallway and then seats on the side on
+*23:17*
+
+**Emily Harden**: either side we could probably bump it up to like 150 and we talked about recorded versus
+*23:23*
+
+**Emily Harden**: We tend to lean now towards not recording because then you have to be there to hear it.
+*23:36*
+
+**Background**: Yeah.
+*23:40*
+
+**Background**: People do get sad about that because accessibility.
+*23:44*
+
+**Emily Harden**: Yeah.
+*23:47*
+
+**Emily Harden**: So, give or take that.
+*23:48*
+
+**Emily Harden**: Maybe you make people, if you do record it.
+*23:52*
+
+**Emily Harden**: Like, recording's just expensive.
+*23:55*
+
+**Sam**: Yeah.
+*23:57*
+
+**Emily Harden**: And get what's not recorded out before it.
+*23:57*
+
+**Emily Harden**: Atlas was, but...
+*23:59*
+
+**Sam**: Yeah, well, also, Max was just, like, he just wasn't interested in, like, figuring that out.
+*24:00*
+
+**Emily Harden**: It's a bitch.
+*24:05*
+
+**Sam**: Even though Atlas has everything we need, it's just, like, it's still...
+*24:05*
+
+**Emily Harden**: It's a bitch.
+*24:08*
+
+**Sam**: It needs to be just kind of...
+*24:10*
+
+**Sam**: Like, I was thinking about that.
+*24:12*
+
+**Sam**: I was, like, there's a...
+*24:12*
+
+**Sam**: Instead of using professional production software, just using, like, Google Meet with YouTube live streaming.
+*24:14*
+
+**Sam**: Or, like, there's another one.
+*24:20*
+
+**Emily Harden**: I don't know how to explain.
+*24:23*
+
+**Emily Harden**: You think it's simple and it's just not.
+*24:25*
+
+**Sam**: Yeah.
+*24:28*
+
+**Sam**: No, I worked at AVL.
+*24:29*
+
+**Emily Harden**: I worked with my production.
+*24:31*
+
+**Sam**: I know it gets very complex and very expensive very fast.
+*24:32*
+
+**Emily Harden**: And we did it at Thunder Planes once,
+*24:35*
+
+**Emily Harden**: and they charge us $10,000,
+*24:38*
+
+**Emily Harden**: which is a lot of money, and it's not worth it.
+*24:42*
+
+**Emily Harden**: If someone really wants to see a particular speaker,
+*24:47*
+
+**Emily Harden**: maybe you can say that they can come back as an AMA virtually
+*24:50*
+
+**Emily Harden**: or something like that.
+*24:53*
+
+**Emily Harden**: Or you give them a discounted ticket.
+*24:57*
+
+**Emily Harden**: occasionally people would ask for discounted or free tickets.
+*24:59*
+
+**Emily Harden**: Students, I would say, if you volunteer, you can't.
+*25:03*
+
+**Emily Harden**: The problem is we always ended up with two-day volunteers
+*25:07*
+
+**Emily Harden**: because I was just like, I want to...
+*25:12*
+
+**Sam**: Okay, where do the volunteers come from?
+*25:13*
+
+**Sam**: I don't even know how to, like...
+*25:16*
+
+**Emily Harden**: There's a volunteers needed channel in Texas.
+*25:17*
+
+**Sam**: So we just post 200-OK volunteer requests?
+*25:20*
+
+**Emily Harden**: People will want to volunteer and get a free ticket.
+*25:23*
+
+**Sam**: Okay, so volunteers get a free ticket.
+*25:27*
+
+**Emily Harden**: Yeah, we've done volunteers gonna get half off ticket.
+*25:29*
+
+**Emily Harden**: Or you're not gonna get it.
+*25:33*
+
+**Emily Harden**: But also there's a list of volunteer tasks that I have.
+*25:39*
+
+**Emily Harden**: I'm too sure to pay.
+*25:45*
+
+**Emily Harden**: Slack or Drive.
+*25:47*
+
+**Emily Harden**: All the tasks that I have volunteers do.
+*25:50*
+
+**Emily Harden**: like putting up signage or helping set up equipment and stuff, making sure the speakers
+*25:52*
+
+**Emily Harden**: felt like they had everything they needed.
+*26:04*
+
+**Sam**: Okay, that's good to know.
+*26:09*
+
+**Sam**: That kind of goes into the other...
+*26:12*
+
+**Sam**: So, speaker fees are...
+*26:14*
+
+**Sam**: I already talked to Max about speaker fees.
+*26:16*
+
+**Sam**: We don't do speaker fees.
+*26:18*
+
+**Emily Harden**: There's a whole page on speaker fees.
+*26:19*
+
+**Emily Harden**: Yeah.
+*26:22*
+
+**Sam**: Who's in the regular, who's the regular planning committee for this?
+*26:25*
+
+**Sam**: Like, who's?
+*26:28*
+
+**Emily Harden**: There's a channel called 200OK Planning.
+*26:29*
+
+**Sam**: Yeah.
+*26:31*
+
+**Emily Harden**: And it's Max and one other guy.
+*26:32*
+
+**Sam**: Oh, okay.
+*26:35*
+
+**Sam**: That makes it easy.
+*26:36*
+
+**Sam**: I was going to do some recruiting, but I didn't want to exclude,
+*26:37*
+
+**Sam**: accidentally exclude people who were expecting to help out.
+*26:41*
+
+**Sam**: Who's the one other guy, Vance?
+*26:44*
+
+**Sam**: I can't remember his name.
+*26:46*
+
+**Sam**: I don't know.
+*26:47*
+
+**Emily Harden**: Actually, I think I left the planning committee.
+*26:48*
+
+**Emily Harden**: Let me try.
+*26:49*
+
+**Sam**: Yeah, I wanted to loop in.
+*26:50*
+
+**Sam**: So I want to just do an initial planning meeting and then loop in some of the user group leaders
+*26:52*
+
+**Sam**: and some of the Tulsa board members.
+*26:59*
+
+**Emily Harden**: So Carlos is always in it, but he doesn't actually do anything.
+*27:04*
+
+**Emily Harden**: His people are all new.
+*27:07*
+
+**Emily Harden**: Jeff helps as needed.
+*27:09*
+
+**Emily Harden**: Travis does all the PRs.
+*27:14*
+
+**Sam**: Travis Miller?
+*27:17*
+
+**Emily Harden**: Yeah, he does all the pull requests and stuff.
+*27:17*
+
+**Emily Harden**: He manages the website.
+*27:19*
+
+**Emily Harden**: He never actually does anything else.
+*27:20*
+
+**Sam**: Okay, cool.
+*27:22*
+
+**Emily Harden**: I don't know about the rest of these people.
+*27:24*
+
+**Sam**: And those are the people from the...
+*27:27*
+
+**Emily Harden**: Channel.
+*27:29*
+
+**Emily Harden**: The 200-DK Planning Channel.
+*27:29*
+
+**Emily Harden**: And I just sent you the...
+*27:33*
+
+**Emily Harden**: Speaker of the Honorarium Policy.
+*27:40*
+
+**Emily Harden**: Basically, we would, if we had a keynote,
+*27:44*
+
+**Emily Harden**: we would do an honorarium if we have a budget.
+*27:48*
+
+**Emily Harden**: But typically, no.
+*27:52*
+
+**Emily Harden**: We've done an honorarium once.
+*27:54*
+
+**Emily Harden**: I think we offered to do an honorarium for Kent.
+*27:58*
+
+**Emily Harden**: But he's the way that we're not from Tata.
+*28:01*
+
+**Emily Harden**: He's very nice of him.
+*28:04*
+
+**Emily Harden**: Everybody that I talk to...
+*28:05*
+
+**Sam**: The next big thing is printing.
+*28:09*
+
+**Sam**: So shirts, signage.
+*28:12*
+
+**Sam**: I had a whole list.
+*28:17*
+
+**Sam**: like sponsor logo placements
+*28:20*
+
+**Sam**: like when do you usually
+*28:22*
+
+**Sam**: plan on doing all the
+*28:24*
+
+**Sam**: printing and merch ordering
+*28:26*
+
+**Emily Harden**: t-shirts is like
+*28:28*
+
+**Emily Harden**: four weeks before
+*28:30*
+
+**Sam**: six weeks maybe
+*28:31*
+
+**Emily Harden**: we used to use
+*28:34*
+
+**Emily Harden**: a company and then we had to
+*28:36*
+
+**Emily Harden**: switch to another one
+*28:38*
+
+**Emily Harden**: what is it called
+*28:40*
+
+**Emily Harden**: but again because
+*28:41*
+
+**Emily Harden**: in that area I can have that
+*28:42*
+
+**Sam**: Hey, remind me to add an action item for Talk with GitWit about seating overage and then build a schedule for the whole conference prep.
+*28:46*
+
+**Sam**: So a schedule for things like ordering shirts and printing signage.
+*28:59*
+
+**Emily Harden**: Yeah, I have a semi-scheduled shirt in a conference planning.
+*29:06*
+
+**Emily Harden**: Oh, in Slack?
+*29:12*
+
+**Emily Harden**: Yeah.
+*29:13*
+
+**Emily Harden**: I think I make canvases for everything.
+*29:15*
+
+**Sam**: Remind me to look up Emily's canvases for 200 okay stuff.
+*29:17*
+
+**Emily Harden**: No, I didn't mean it that way.
+*29:21*
+
+**Emily Harden**: Okay.
+*29:25*
+
+**Emily Harden**: Yes, I would do that too.
+*29:26*
+
+**Emily Harden**: That makes sense.
+*29:27*
+
+**Emily Harden**: 200.
+*29:29*
+
+**Emily Harden**: Yeah.
+*29:32*
+
+**Background**: I feel like it's involved in time since we've been through the best time.
+*29:32*
+
+**Emily Harden**: We're so slow.
+*29:36*
+
+**Emily Harden**: Yeah, that's where it is.
+*29:37*
+
+**Emily Harden**: Yeah.
+*29:39*
+
+**Emily Harden**: And we're kind of a transition moment where we're figuring out the goals.
+*29:40*
+
+**Emily Harden**: Maybe it's in Drive.
+*29:45*
+
+**Emily Harden**: Yeah.
+*29:48*
+
+**Emily Harden**: It might be in Drive.
+*29:49*
+
+**Emily Harden**: Okay.
+*29:50*
+
+**Emily Harden**: But, yeah, there's shit.
+*29:50*
+
+**Emily Harden**: I tried to prep everything.
+*29:52*
+
+**Emily Harden**: I think that's everything.
+*29:57*
+
+**Emily Harden**: We have a t-shirt company.
+*29:58*
+
+**Emily Harden**: Yeah.
+*30:00*
+
+**Emily Harden**: It's the one we used most recently, so it will be in budget.
+*30:01*
+
+**Emily Harden**: Like a budget spreadsheet?
+*30:08*
+
+**Emily Harden**: Yeah.
+*30:09*
+
+**Emily Harden**: They changed the name of their company because they switched to owners.
+*30:09*
+
+**Emily Harden**: I like them because they're very nice.
+*30:14*
+
+**Emily Harden**: You might find a cheaper brand, but I don't think you can.
+*30:16*
+
+**Emily Harden**: Printing-wise, any time I printed paper, I used Radiant.
+*30:21*
+
+**Emily Harden**: I typically had enough credits to print it.
+*30:27*
+
+**Sam**: How much printing did you need to do?
+*30:29*
+
+**Emily Harden**: Not much.
+*30:30*
+
+**Emily Harden**: I printed a couple of signs to put in those poster things that just said,
+*30:31*
+
+**Emily Harden**: like, welcome, tickets, blah, blah, blah, blah.
+*30:37*
+
+**Sam**: Oh, what about brochures?
+*30:39*
+
+**Emily Harden**: I never have brochures.
+*30:41*
+
+**Sam**: Like conference schedules?
+*30:43*
+
+**Sam**: Oh, I guess that's just on the website.
+*30:44*
+
+**Sam**: It's on the website.
+*30:46*
+
+**Sam**: No, I like that.
+*30:47*
+
+**Emily Harden**: I didn't print much.
+*30:48*
+
+**Sam**: Yeah, that's what I want to do.
+*30:49*
+
+**Sam**: It's just like, because I don't have Emily time to do everything.
+*30:50*
+
+**Sam**: Yeah.
+*30:54*
+
+**Sam**: I'm just like, what can I do?
+*30:55*
+
+**Emily Harden**: And as long as you make the website friendly mobile program.
+*30:57*
+
+**Sam**: Okay.
+*30:59*
+
+**Emily Harden**: Have an iPad around.
+*31:00*
+
+**Emily Harden**: QR codes.
+*31:01*
+
+**Emily Harden**: Just one QR code.
+*31:02*
+
+**Emily Harden**: Yeah.
+*31:03*
+
+**Emily Harden**: Okay.
+*31:03*
+
+**Emily Harden**: If you wanted to print bigger posters and stuff, that's a...
+*31:05*
+
+**Emily Harden**: I never really did that for 200K.
+*31:08*
+
+**Emily Harden**: I do it for Thunderblades, but not 200K.
+*31:10*
+
+**Emily Harden**: I did make 200K posters, and, like, you could make posters
+*31:14*
+
+**Emily Harden**: and print them at Gradient and post it at Gradient so that people will see it.
+*31:18*
+
+**Sam**: Oh, yeah, that's all right.
+*31:22*
+
+**Sam**: Okay, I need to add that to my attendee list, like, Gradient.
+*31:23*
+
+**Emily Harden**: I always also tried to give Gradient, like, a 10% discount with code Gradient.
+*31:29*
+
+**Emily Harden**: which Tito makes it really easy to do those kind of things.
+*31:35*
+
+**Sam**: And what is Gradient?
+*31:38*
+
+**Sam**: Like Gradient members?
+*31:39*
+
+**Sam**: Or Gradient staff?
+*31:42*
+
+**Emily Harden**: Anyone who was involved at Gradient
+*31:44*
+
+**Emily Harden**: who was the Gradient promo code
+*31:46*
+
+**Emily Harden**: is pretty much what I did.
+*31:48*
+
+**Sam**: Okay.
+*31:49*
+
+**Emily Harden**: No one ever took me up on it.
+*31:50*
+
+**Emily Harden**: Not a single person.
+*31:51*
+
+**Emily Harden**: I'll probably just skip that one.
+*31:53*
+
+**Emily Harden**: Oh, yeah?
+*31:54*
+
+**Emily Harden**: They, yeah.
+*31:54*
+
+**Emily Harden**: Like, I did promo codes for specific companies
+*31:57*
+
+**Emily Harden**: and specific people.
+*31:59*
+
+**Emily Harden**: Yeah.
+*32:00*
+
+**Emily Harden**: Occasionally, they would use the promo code
+*32:01*
+
+**Emily Harden**: and occasionally, they wouldn't.
+*32:03*
+
+**Emily Harden**: But the fact that they have the promo code offered, I think, helped.
+*32:05*
+
+**Sam**: Oh, like the fact that it's theirs and it's in there.
+*32:09*
+
+**Emily Harden**: Yes.
+*32:12*
+
+**Sam**: People just forget to use it.
+*32:12*
+
+**Sam**: Yes.
+*32:13*
+
+**Sam**: Okay, I can see that.
+*32:14*
+
+**Emily Harden**: We always give junior devs a promo code if they were, like, new in the industry.
+*32:16*
+
+**Emily Harden**: So, like, if it's your first year out of college, you might not be able to afford a 200-OK ticket,
+*32:23*
+
+**Emily Harden**: so we'd give them a discount.
+*32:27*
+
+**Emily Harden**: Okay.
+*32:28*
+
+**Emily Harden**: And I always included students as anyone that's graduated in the past year,
+*32:31*
+
+**Emily Harden**: I let them do the student ticket.
+*32:37*
+
+**Emily Harden**: I'm pretty gracious with that stuff.
+*32:39*
+
+**Emily Harden**: Okay.
+*32:41*
+
+**Sam**: I feel like it's also kind of a lead, like it's kind of a draw.
+*32:42*
+
+**Emily Harden**: I'm glad they get what people are involved.
+*32:52*
+
+**Emily Harden**: Because I asked them to be more involved last year
+*32:55*
+
+**Emily Harden**: because they were unhappy with the year before.
+*32:57*
+
+**Emily Harden**: So I'm glad they're involved.
+*33:00*
+
+**Sam**: Like who's involved?
+*33:04*
+
+**Emily Harden**: GetWit in general.
+*33:06*
+
+**Emily Harden**: Like I think I had three or four people from GetWit who responded back to the survey.
+*33:07*
+
+**Sam**: Talks.
+*33:13*
+
+**Emily Harden**: Yeah.
+*33:14*
+
+**Sam**: So GetWit, from what I'm understanding, GetWit team members were not too happy with the quality of the talks.
+*33:16*
+
+**Sam**: And GitWit's senior leadership is very eager to get access to software engineers, so they don't care.
+*33:26*
+
+**Sam**: And so it's more of just like it is what it is.
+*33:33*
+
+**Sam**: They're doing this venture studio.
+*33:37*
+
+**Sam**: They're desperately needing software engineers.
+*33:39*
+
+**Sam**: So it's like they're really prioritizing it and making it a space for them.
+*33:41*
+
+**Sam**: That's one of the vibe I'm getting from GitWit is that they don't just want to be our partners.
+*33:45*
+
+**Sam**: They don't just want to figure out how to work together.
+*33:51*
+
+**Sam**: They're like, no, we want to make a space for software engineers here.
+*33:54*
+
+**Emily Harden**: Okay.
+*33:58*
+
+**Emily Harden**: Well, if that's the case, then you might have to see if they're willing to sponsor, like,
+*33:58*
+
+**Emily Harden**: some students getting membership into Tech Mahoma or something like that, right?
+*34:05*
+
+**Emily Harden**: What would that look like?
+*34:10*
+
+**Emily Harden**: So let's say they have students apply for some sort of scholarship type thing,
+*34:12*
+
+**Emily Harden**: and then they get a free Tech Mahoma membership for the year or two years
+*34:20*
+
+**Emily Harden**: and get what pays for it.
+*34:24*
+
+**Sam**: Okay, that's interesting.
+*34:26*
+
+**Sam**: Yeah, make an action item out of that.
+*34:27*
+
+**Sam**: In my notes.
+*34:29*
+
+**Sam**: Okay, I think that's...
+*34:34*
+
+**Sam**: I think I got...
+*34:35*
+
+**Sam**: I mean, I think I still have some questions
+*34:36*
+
+**Sam**: about printing,
+*34:37*
+
+**Sam**: but I think I can...
+*34:38*
+
+**Sam**: Oh, food and catering.
+*34:39*
+
+**Emily Harden**: Katie,
+*34:42*
+
+**Emily Harden**: whole hockey.
+*34:42*
+
+**Sam**: Katie, say that again?
+*34:43*
+
+**Sam**: Whole hockey.
+*34:44*
+
+**Sam**: Whole hockey?
+*34:45*
+
+**Sam**: Yeah.
+*34:46*
+
+**Emily Harden**: I'll send you her info.
+*34:47*
+
+**Sam**: Does she have...
+*34:48*
+
+**Sam**: Does she have a name of her company?
+*34:49*
+
+**Emily Harden**: RG Foods.
+*34:50*
+
+**Sam**: RG Foods.
+*34:51*
+
+**Emily Harden**: Say it's Tech, Oklahoma.
+*34:53*
+
+**Sam**: Okay.
+*34:54*
+
+**Emily Harden**: She's not very responsive.
+*34:55*
+
+**Emily Harden**: But she is the cheapest, best caterer.
+*34:57*
+
+**Emily Harden**: Okay.
+*35:00*
+
+**Emily Harden**: Especially if we ask for there to be a couple of vegan and gluten-free options,
+*35:02*
+
+**Emily Harden**: and she always caters.
+*35:06*
+
+**Sam**: Okay.
+*35:08*
+
+**Sam**: Well, I was figuring I'd...
+*35:09*
+
+**Sam**: So my plan, especially with the sponsors,
+*35:11*
+
+**Sam**: because I wanted to hear everything from you first.
+*35:15*
+
+**Sam**: So, Chachubut Research told me a popular format is to do a menu of items for the sponsor.
+*35:21*
+
+**Sam**: So, sponsor breakfast, sponsor lunch, sponsor dinner.
+*35:29*
+
+**Emily Harden**: Like I was saying, yeah.
+*35:31*
+
+**Sam**: And then group those into larger packages.
+*35:32*
+
+**Sam**: So, like the 20K, you do all this.
+*35:35*
+
+**Sam**: 10K, you do all this.
+*35:38*
+
+**Emily Harden**: I posted on my thing all the, I'll make sure, I don't think it's updated.
+*35:39*
+
+**Emily Harden**: All the talks I'm giving, look at all those conference websites.
+*35:44*
+
+**Emily Harden**: Okay.
+*35:46*
+
+**Emily Harden**: Because that's pretty much what they do.
+*35:48*
+
+**Emily Harden**: I tried that.
+*35:49*
+
+**Emily Harden**: We try a little bit of everything every year.
+*35:51*
+
+**Emily Harden**: And the booth thing, people are like, I want a booth.
+*35:57*
+
+**Emily Harden**: I don't want a booth.
+*36:00*
+
+**Emily Harden**: No one fucking knows what they want.
+*36:02*
+
+**Emily Harden**: So you just kind of have to like, offer it.
+*36:04*
+
+**Emily Harden**: And then if they don't want it, cool.
+*36:07*
+
+**Emily Harden**: But have them confirm that they do or don't want it.
+*36:09*
+
+**Sam**: And then how does that, because I'm thinking like the table situation.
+*36:15*
+
+**Sam**: The venue usually provides the tables for all that?
+*36:19*
+
+**Sam**: Okay.
+*36:22*
+
+**Emily Harden**: And then we have a bunch of black tablecloths, so we don't have to pay extra for tablecloths.
+*36:22*
+
+**Emily Harden**: Where are those?
+*36:25*
+
+**Emily Harden**: Probably Oklahoma City.
+*36:26*
+
+**Emily Harden**: Okay.
+*36:27*
+
+**Emily Harden**: And we have a couple of Oklahoma tablecloths also.
+*36:32*
+
+**Sam**: I probably need to visit that Oklahoma City thing just to, like, see what's there.
+*36:38*
+
+**Sam**: Just the verge.
+*36:43*
+
+**Sam**: Just the verge.
+*36:44*
+
+**Sam**: Yeah.
+*36:45*
+
+**Sam**: Storage.
+*36:45*
+
+**Emily Harden**: And the Verge probably can't contribute financially, but they might be able to contribute something if you ask them.
+*36:49*
+
+**Emily Harden**: Like sharing about it to their community or their workspace.
+*36:57*
+
+**Sam**: Okay, no, yeah, that's good.
+*37:04*
+
+**Sam**: That's the slacks.
+*37:06*
+
+**Emily Harden**: The last thing I was going to say was Tulsa Tech.
+*37:18*
+
+**Emily Harden**: So, John Duffy recruited me to come interview students who are graduating the program for Tulsa Tech.
+*37:21*
+
+**Emily Harden**: I think that would be a great opportunity for Tech Holmans to interview people.
+*37:32*
+
+**Emily Harden**: I think Tech Holmans would do a better job interviewing them.
+*37:38*
+
+**Sam**: They asked me to do, I think I did that two or three times.
+*37:40*
+
+**Emily Harden**: Yeah.
+*37:44*
+
+**Sam**: It was pretty cool.
+*37:46*
+
+**Sam**: It's just like it takes like, it basically takes a whole day.
+*37:47*
+
+**Emily Harden**: Yeah, I did the whole day.
+*37:50*
+
+**Emily Harden**: You could do a half day if you wanted.
+*37:51*
+
+**Emily Harden**: But if you wanted to offer reverse and do some sort of like Tech Mahoma is offering interview things here
+*37:56*
+
+**Emily Harden**: or here's our interview skills workshop or here's whatever,
+*38:08*
+
+**Emily Harden**: you could then see if Tulsa Tech was wanting to sponsor.
+*38:13*
+
+**Sam**: So.
+*38:21*
+
+**Sam**: How does Tulsa Tech sponsorship out?
+*38:22*
+
+**Sam**: What kind of things do they actually sponsor?
+*38:24*
+
+**Emily Harden**: That's a great question, and I never really got the answer.
+*38:27*
+
+**Sam**: I see the Tulsa Tech logo a gradient.
+*38:30*
+
+**Emily Harden**: Uh-huh, I do too.
+*38:33*
+
+**Sam**: So to me, it's like they're more, they sponsor a big sponsorship
+*38:34*
+
+**Sam**: for a handful of things,
+*38:42*
+
+**Sam**: not a lot of small sponsorship.
+*38:44*
+
+**Sam**: I'm like $5,000 sponsorship.
+*38:46*
+
+**Emily Harden**: I don't think so either.
+*38:47*
+
+**Emily Harden**: But it's still worth an ask.
+*38:50*
+
+**Emily Harden**: Even if it's like...
+*38:51*
+
+**Sam**: Who would be the person to ask?
+*38:52*
+
+**Emily Harden**: Not Amy, but I don't know who it is.
+*38:54*
+
+**Sam**: Not Amy?
+*38:56*
+
+**Emily Harden**: Yeah, Amy's always like,
+*38:57*
+
+**Emily Harden**: no, it's not me.
+*38:58*
+
+**Emily Harden**: It's her name.
+*38:58*
+
+**Emily Harden**: Insert department.
+*39:00*
+
+**Sam**: Okay, so I can ask Amy to tell you the department.
+*39:02*
+
+**Emily Harden**: Okay.
+*39:05*
+
+**Sam**: Make that an action item.
+*39:06*
+
+**Emily Harden**: All of the companies that have a lot of tech employees are good recruits for 200K, right?
+*39:12*
+
+**Emily Harden**: So, 101 Gas, they don't really send many people, but think about, like, any company that has IT people working with them,
+*39:19*
+
+**Emily Harden**: which is any company bigger than 40 in Tulsa.
+*39:30*
+
+**Emily Harden**: And you can look, Wikipedia has a giant list of all the companies in Tulsa.
+*39:34*
+
+**Emily Harden**: And I go through that list occasionally.
+*39:38*
+
+**Emily Harden**: Okay.
+*39:40*
+
+**Emily Harden**: Quick Trip, right?
+*39:41*
+
+**Emily Harden**: Like, there are tons of places.
+*39:42*
+
+**Sam**: So how do you connect with Quick Trip?
+*39:44*
+
+**Emily Harden**: I look online on their website.
+*39:47*
+
+**Emily Harden**: They've got, like, they have contact us things.
+*39:49*
+
+**Emily Harden**: They have things.
+*39:52*
+
+**Emily Harden**: And typically to find sponsorship for places.
+*39:56*
+
+**Emily Harden**: Quick Trip typically sponsors in terms of, like, they'll give us gift cards or something.
+*39:59*
+
+**Sam**: Yeah.
+*40:04*
+
+**Emily Harden**: the sponsorship links for websites are typically in really weird places so
+*40:08*
+
+**Emily Harden**: it's in corporate responsibility or in careers or about us
+*40:15*
+
+**Emily Harden**: I don't know why that's where it is or the very bottom I don't know the footer
+*40:24*
+
+**Emily Harden**: the footer sometimes has it um and sometimes you just google it you just ask if they sponsor it
+*40:30*
+
+**Sam**: yeah i was about to say that sounds like a judge of ect thing oh yeah it could probably
+*40:36*
+
+**Emily Harden**: let it find that on the website oh it could definitely do better than i did with my random
+*40:39*
+
+**Emily Harden**: searching um i'll say if you're wanting to sponsor that someone you don't know uh
+*40:44*
+
+**Sam**: who got a contact like three months in advance yeah that's what i was like i missed my timing with
+*40:52*
+
+**Sam**: I called her last week and she was or I texted her last week and she was like
+*40:59*
+
+**Sam**: yeah just we locked on the but we like on the budget in December so I find
+*41:04*
+
+**Sam**: actually she's gonna find she's gonna find extra funds for progress
+*41:09*
+
+**Sam**: that's cool I might ask
+*41:16*
+
+**Sam**: I might ask
+*41:21*
+
+**Sam**: April
+*41:24*
+
+**Sam**: if there's somebody
+*41:25*
+
+**Sam**: I should contact
+*41:26*
+
+**Sam**: Microsoft
+*41:26*
+
+**Sam**: that would be
+*41:27*
+
+**Sam**: interesting
+*41:27*
+
+**Sam**: and then
+*41:29*
+
+**Sam**: I kind of
+*41:30*
+
+**Sam**: want to ask
+*41:31*
+
+**Sam**: Kevin
+*41:32*
+
+**Sam**: I liked the
+*41:33*
+
+**Emily Harden**: letter to the
+*41:35*
+
+**Emily Harden**: boss thing
+*41:35*
+
+**Emily Harden**: where you put
+*41:37*
+
+**Emily Harden**: on your website
+*41:38*
+
+**Emily Harden**: here's a letter
+*41:39*
+
+**Emily Harden**: to your boss
+*41:40*
+
+**Emily Harden**: that you can
+*41:41*
+
+**Emily Harden**: send
+*41:41*
+
+**Sam**: that's good
+*41:42*
+
+**Emily Harden**: we have one
+*41:44*
+
+**Emily Harden**: like you can
+*41:45*
+
+**Emily Harden**: find them
+*41:46*
+
+**Emily Harden**: like KCDC
+*41:47*
+
+**Emily Harden**: always does one
+*41:48*
+
+**Sam**: that's for
+*41:49*
+
+**Sam**: employees who
+*41:50*
+
+**Sam**: want to attend
+*41:51*
+
+**Sam**: right
+*41:51*
+
+**Sam**: okay
+*41:54*
+
+**Sam**: I always liked that.
+*41:55*
+
+**Sam**: Make letter to the boss an action item.
+*41:56*
+
+**Emily Harden**: I think we had one last year.
+*42:04*
+
+**Sam**: We can just put that right on the website.
+*42:07*
+
+**Emily Harden**: People love that.
+*42:10*
+
+**Emily Harden**: They're like, oh, I want to attend,
+*42:11*
+
+**Emily Harden**: and this is how I tell my boss to attend.
+*42:12*
+
+**Emily Harden**: Yeah, I'm trying to think if there's anything else
+*42:19*
+
+**Emily Harden**: off the top of my head.
+*42:21*
+
+**Emily Harden**: I think I have.
+*42:23*
+
+**Sam**: Stretch.
+*42:39*
+
+**Emily Harden**: Oh, yeah.
+*42:45*
+
+**Emily Harden**: So, best practice tips from it.
+*42:46*
+
+**Emily Harden**: And here's conference best practice.
+*42:49*
+
+**Sam**: I always forget to look up, try to look up some of this stuff.
+*42:51*
+
+**Emily Harden**: Questions to ask speakers upon selection.
+*42:56*
+
+**Emily Harden**: So this is the speaker confirmation stuff.
+*43:00*
+
+**Emily Harden**: So there's some stuff around.
+*43:05*
+
+**Emily Harden**: Yeah.
+*43:15*
+
+**Sam**: I feel like there's so much more on it.
+*43:20*
+
+**Sam**: Oh, the last thing I was going to ask, what capacity?
+*43:21*
+
+**Sam**: Do you want to stay stealth and just be the person that Sam asks?
+*43:28*
+
+**Emily Harden**: I'm happy to be that.
+*43:35*
+
+**Emily Harden**: I'm happy to help a little.
+*43:38*
+
+**Sam**: Like, for example, I want to do an initial meeting.
+*43:44*
+
+**Sam**: I'm just pulling as many people as I can for planning and like,
+*43:48*
+
+**Sam**: like picking roles of like what people are going to do.
+*43:53*
+
+**Sam**: Would you want to be in on that?
+*43:56*
+
+**Emily Harden**: I'm trying to think what's best for the org.
+*44:00*
+
+**Sam**: Because I don't,
+*44:02*
+
+**Sam**: the one,
+*44:02*
+
+**Sam**: what I don't want to do is like,
+*44:03*
+
+**Sam**: I don't want to fall into the muscle,
+*44:04*
+
+**Sam**: maybe with Max or whoever.
+*44:07*
+
+**Sam**: I'm just like,
+*44:08*
+
+**Sam**: Oh,
+*44:09*
+
+**Sam**: Emily's here.
+*44:09*
+
+**Sam**: So she's going to do,
+*44:09*
+
+**Emily Harden**: that's my concern.
+*44:10*
+
+**Sam**: She's going to do what she did.
+*44:11*
+
+**Emily Harden**: Right.
+*44:13*
+
+**Sam**: It's like,
+*44:13*
+
+**Sam**: no,
+*44:13*
+
+**Sam**: it's more just like your primary role is more just,
+*44:14*
+
+**Sam**: Here's what we did last time.
+*44:18*
+
+**Sam**: Here's the best practice.
+*44:20*
+
+**Emily Harden**: Yeah.
+*44:22*
+
+**Emily Harden**: I think if I...
+*44:22*
+
+**Emily Harden**: I would be open to attending.
+*44:26*
+
+**Emily Harden**: I think if I attend, it would be a...
+*44:28*
+
+**Emily Harden**: I am not here...
+*44:32*
+
+**Emily Harden**: I'm not signing up for any tasks.
+*44:34*
+
+**Sam**: Maybe we...
+*44:36*
+
+**Sam**: Well, no.
+*44:40*
+
+**Sam**: That's what I was thinking.
+*44:40*
+
+**Sam**: instead of inviting people to like volunteer for roles,
+*44:44*
+
+**Sam**: I think I was just going to assign everyone a role and then your role will be
+*44:48*
+
+**Sam**: advisor.
+*44:52*
+
+**Emily Harden**: Yep.
+*44:53*
+
+**Emily Harden**: And I'm happy to like help with like this kind of thing,
+*44:53*
+
+**Emily Harden**: like happy to help with that.
+*44:58*
+
+**Emily Harden**: Anything more than that,
+*45:01*
+
+**Emily Harden**: then I think I'm veering into,
+*45:02*
+
+**Emily Harden**: do I need to be branding myself as hard and consulting at this and that kind
+*45:07*
+
+**Emily Harden**: of thing.
+*45:10*
+
+**Emily Harden**: with this one.
+*45:13*
+
+**Sam**: We can do,
+*45:14*
+
+**Sam**: I mean,
+*45:14*
+
+**Sam**: that's also an option.
+*45:16*
+
+**Sam**: We can do an in-kind sponsor
+*45:17*
+
+**Sam**: and have hard-of-consulting.
+*45:19*
+
+**Sam**: I think,
+*45:20*
+
+**Sam**: actually,
+*45:20*
+
+**Sam**: I think we need to do that
+*45:21*
+
+**Sam**: no matter what.
+*45:21*
+
+**Sam**: Have hard-of-consulting
+*45:23*
+
+**Sam**: as an in-kind sponsor
+*45:23*
+
+**Sam**: because you're already,
+*45:24*
+
+**Sam**: you're already,
+*45:25*
+
+**Sam**: you just devoted an hour.
+*45:26*
+
+**Emily Harden**: Yeah.
+*45:28*
+
+**Emily Harden**: And I'm,
+*45:29*
+
+**Emily Harden**: I mean,
+*45:29*
+
+**Emily Harden**: that'd be cool.
+*45:30*
+
+**Emily Harden**: Yeah.
+*45:32*
+
+**Emily Harden**: I might,
+*45:33*
+
+**Emily Harden**: that might be okay.
+*45:34*
+
+**Emily Harden**: Yeah.
+*45:38*
+
+**Emily Harden**: I'd be down for,
+*45:38*
+
+**Emily Harden**: I keep forgetting,
+*45:40*
+
+**Sam**: I need to also
+*45:41*
+
+**Sam**: put Act House
+*45:42*
+
+**Emily Harden**: sponsor because I'm doing an amount of company time.
+*45:43*
+
+**Sam**: It's just like the frustrating part is like people like Ole Man and Loki and Lawrence
+*45:52*
+
+**Sam**: ask about, okay, can we do this?
+*46:03*
+
+**Sam**: And you're just like, man, that's for a full-time employee.
+*46:04*
+
+**Sam**: I'm already pushing the limits.
+*46:10*
+
+**Emily Harden**: yeah i will say don't push yourself too much that's why i was like
+*46:15*
+
+**Emily Harden**: take breaks it is not your full-time job you're a board member you're not expected to be on slack
+*46:24*
+
+**Emily Harden**: 24 7 for tech yeah um something i specifically had to think about with Ole Man is Ole Man is not
+*46:30*
+
+**Sam**: your boss. That's what I was like, because we've been doing the, we've been doing the
+*46:38*
+
+**Sam**: board AMAs, and I kind of want to just, it feels like, it feels like the only reason,
+*46:44*
+
+**Sam**: not even like the biggest reason, like the only reason the board AMAs is because of Ole Man.
+*46:51*
+
+**Sam**: She's on every single one of them. But one person being like the squeaky wheel that drives
+*46:57*
+
+**Sam**: what Tech Warmba does
+*47:06*
+
+**Sam**: as an organization
+*47:08*
+
+**Sam**: does not
+*47:09*
+
+**Sam**: seem fair to me.
+*47:10*
+
+**Sam**: I was thinking
+*47:12*
+
+**Sam**: it was like
+*47:13*
+
+**Sam**: we need
+*47:13*
+
+**Sam**: I almost want to
+*47:14*
+
+**Sam**: convert the board AMAs
+*47:15*
+
+**Sam**: into a
+*47:16*
+
+**Sam**: board one-on-one.
+*47:18*
+
+**Emily Harden**: Is she the only one?
+*47:19*
+
+**Sam**: One person.
+*47:20*
+
+**Sam**: Like
+*47:21*
+
+**Sam**: people get to volunteer
+*47:22*
+
+**Sam**: and one person
+*47:23*
+
+**Sam**: gets to talk
+*47:24*
+
+**Sam**: to one board member
+*47:25*
+
+**Sam**: everyone.
+*47:26*
+
+**Emily Harden**: Oh, interesting.
+*47:29*
+
+**Sam**: And so it's just like
+*47:30*
+
+**Sam**: that
+*47:32*
+
+**Sam**: you know
+*47:32*
+
+**Sam**: whoever
+*47:32*
+
+**Sam**: some kind of metric
+*47:33*
+
+**Sam**: where it's like
+*47:34*
+
+**Sam**: whoever really needs
+*47:35*
+
+**Sam**: talk to the board the most they get to go through but also it's like it's it's gonna be unfair if
+*47:36*
+
+**Sam**: it's the same person every month so what because the board i made is it's just like no one's no
+*47:42*
+
+**Emily Harden**: one's excited to do no one's going to them there's i had to do the last i had to do the last one
+*47:50*
+
+**Sam**: just like they're just like they can't always and then there was even a comment like well
+*47:55*
+
+**Sam**: that's not fair you already did one I just like yeah and then the other part is like it's hard for
+*47:59*
+
+**Sam**: it's hard to pull on new board members Daniel did really good but for a board member hasn't
+*48:07*
+
+**Sam**: done before like come on and Ole Man's first question is what do you what exactly do you do
+*48:13*
+
+**Emily Harden**: and it's just like yeah okay so I don't know that board maybe the board member AMA is on
+*48:18*
+
+**Emily Harden**: the ask an expert AMA I think happen thank you but they've been on to do one
+*48:28*
+
+**Emily Harden**: tomorrow maybe you do a board member AMA where it's three board members there
+*48:33*
+
+**Sam**: that's not just one we could we could probably that way it's not
+*48:40*
+
+**Emily Harden**: and you only do it once every quarter once every so that was that would be a
+*48:49*
+
+**Sam**: a lot better.
+*48:53*
+
+**Emily Harden**: Right?
+*48:53*
+
+**Emily Harden**: And submit your questions beforehand.
+*48:54*
+
+**Sam**: Yeah.
+*48:57*
+
+**Emily Harden**: And, like,
+*48:59*
+
+**Emily Harden**: because the AMAs
+*49:00*
+
+**Emily Harden**: are relatively new.
+*49:01*
+
+**Emily Harden**: It was testing it out.
+*49:02*
+
+**Emily Harden**: It's okay
+*49:04*
+
+**Emily Harden**: if you say no
+*49:05*
+
+**Emily Harden**: or change it
+*49:05*
+
+**Emily Harden**: or you do whatever.
+*49:06*
+
+**Emily Harden**: Right?
+*49:07*
+
+**Emily Harden**: Yeah.
+*49:07*
+
+**Sam**: The big thing,
+*49:10*
+
+**Sam**: the big demand,
+*49:10*
+
+**Sam**: which
+*49:11*
+
+**Sam**: we obviously got from Kim
+*49:13*
+
+**Sam**: for the time I got.
+*49:14*
+
+**Sam**: So I've been doing
+*49:16*
+
+**Sam**: one-on-one conversations
+*49:17*
+
+**Sam**: with certain people.
+*49:18*
+
+**Sam**: I want to do one
+*49:19*
+
+**Sam**: with Aaron tomorrow
+*49:20*
+
+**Sam**: after his AMA.
+*49:22*
+
+**Sam**: I did one with Lawrence
+*49:23*
+
+**Sam**: who's with Loki on Slack
+*49:25*
+
+**Sam**: and they gave me a lot of
+*49:28*
+
+**Sam**: good feedback
+*49:30*
+
+**Sam**: a lot of similar feedback
+*49:30*
+
+**Sam**: to Ole Man
+*49:32*
+
+**Sam**: so it's just like
+*49:33*
+
+**Sam**: they don't know what the board does
+*49:33*
+
+**Sam**: yeah so I can
+*49:35*
+
+**Sam**: so I can overlap that
+*49:35*
+
+**Sam**: and be like okay
+*49:36*
+
+**Sam**: and just filter through
+*49:37*
+
+**Sam**: like okay what's
+*49:38*
+
+**Sam**: what's just Ole Man
+*49:40*
+
+**Sam**: driving frustration
+*49:41*
+
+**Sam**: and what's
+*49:42*
+
+**Sam**: what's a thing like
+*49:44*
+
+**Sam**: that's actually like
+*49:44*
+
+**Sam**: in the community
+*49:45*
+
+**Emily Harden**: yeah
+*49:46*
+
+**Sam**: because that's the other part
+*49:47*
+
+**Sam**: I'm concerned
+*49:48*
+
+**Sam**: I'm concerned
+*49:49*
+
+**Sam**: Ole Man's almost asking
+*49:50*
+
+**Sam**: like I
+*49:52*
+
+**Sam**: it's like she's she's community rep no no no she is exercising control
+*49:53*
+
+**Sam**: over like what we do on behalf of the community but nobody elected her to do that
+*50:01*
+
+**Sam**: um and so that's where i'm like should the board i made what i made should be one-on-one
+*50:11*
+
+**Sam**: so people can talk one-on-one and then that's interesting and then like they're like if it's
+*50:16*
+
+**Sam**: somebody who wants to like go back in the community and answer the questions they can do it it's like
+*50:20*
+
+**Sam**: but it feels like specific people it's it's like less than a dozen people who are working who are
+*50:24*
+
+**Sam**: like have frustrations and everybody just everybody else is just cool right so it's like we get those
+*50:29*
+
+**Emily Harden**: dozen not down we did conversations with them but they're gonna come back for more that's the problem
+*50:35*
+
+**Emily Harden**: yes even if you solve the problem they'll have a new problem so it's like
+*50:42*
+
+**Emily Harden**: so
+*50:49*
+
+**Sam**: who elected these people
+*50:50*
+
+**Sam**: to like
+*50:53*
+
+**Emily Harden**: Ole Man's the only one that like
+*50:54*
+
+**Sam**: the other part of it will be interesting
+*50:56*
+
+**Sam**: around the next
+*50:59*
+
+**Sam**: I was thinking about
+*51:00*
+
+**Sam**: I was going to try to fight for like
+*51:02*
+
+**Sam**: you know the coffee and coat thing
+*51:04*
+
+**Sam**: you know about leaving
+*51:07*
+
+**Emily Harden**: Ole Man left yeah
+*51:09*
+
+**Sam**: no it's like she's taking coffee and coat with her
+*51:10*
+
+**Emily Harden**: right she brought it in she's taking it out
+*51:12*
+
+**Sam**: oh okay
+*51:15*
+
+**Sam**: that makes sense
+*51:16*
+
+**Sam**: she's communicated that
+*51:18*
+
+**Sam**: that's kind of her
+*51:20*
+
+**Sam**: like
+*51:20*
+
+**Sam**: her way of
+*51:22*
+
+**Sam**: like exiting
+*51:23*
+
+**Sam**: tech home in a sense
+*51:24*
+
+**Sam**: or reducing
+*51:25*
+
+**Sam**: which is like
+*51:26*
+
+**Sam**: okay well
+*51:27*
+
+**Sam**: let's
+*51:27*
+
+**Sam**: like around the next
+*51:28*
+
+**Sam**: term of the year
+*51:29*
+
+**Sam**: like let's
+*51:29*
+
+**Sam**: let's see that
+*51:31*
+
+**Sam**: she's like
+*51:32*
+
+**Sam**: I'm curious when
+*51:35*
+
+**Sam**: she
+*51:36*
+
+**Sam**: like
+*51:38*
+
+**Sam**: pulls away
+*51:39*
+
+**Sam**: what is that
+*51:40*
+
+**Emily Harden**: she's been pulling away
+*51:42*
+
+**Emily Harden**: for five years
+*51:43*
+
+**Emily Harden**: okay
+*51:46*
+
+**Sam**: Sorry to tell you.
+*51:47*
+
+**Sam**: Maybe it's more, I need to have a conversation and say, Ole Man, what do you want your boundaries to be?
+*51:47*
+
+**Sam**: What do you want to not have to be?
+*51:56*
+
+**Sam**: What makes you sad?
+*51:58*
+
+**Sam**: And like, we're going to set rules and no one else will be able to pull you into that.
+*52:01*
+
+**Emily Harden**: You can try.
+*52:09*
+
+**Emily Harden**: I can show you dozens of conversations.
+*52:10*
+
+**Emily Harden**: I'll be telling Ole Man, just tell them no.
+*52:14*
+
+**Emily Harden**: Ole Man, if they quit Takahama, that's fine.
+*52:17*
+
+**Emily Harden**: Let them quit.
+*52:20*
+
+**Emily Harden**: She does.
+*52:22*
+
+**Emily Harden**: She will still complain.
+*52:23*
+
+**Emily Harden**: It's a Ole Man issue that's not going to get resolved.
+*52:25*
+
+**Emily Harden**: I don't know how to help you tell you this.
+*52:29*
+
+**Emily Harden**: She is Ole Man and she is her.
+*52:33*
+
+**Sam**: To me, the thing that...
+*52:35*
+
+**Sam**: Maybe this has been tried.
+*52:37*
+
+**Sam**: But the magic trick that I want to try with her...
+*52:39*
+
+**Sam**: I know this is a thing.
+*52:43*
+
+**Sam**: I've seen Dominic Arbus do this.
+*52:45*
+
+**Sam**: is to
+*52:48*
+
+**Sam**: incept an idea
+*52:49*
+
+**Sam**: into somebody's head
+*52:49*
+
+**Sam**: and then get them
+*52:50*
+
+**Sam**: to like propose
+*52:51*
+
+**Sam**: that idea to them.
+*52:52*
+
+**Emily Harden**: Yeah.
+*52:53*
+
+**Sam**: It's just like
+*52:54*
+
+**Sam**: man Ole Man
+*52:55*
+
+**Sam**: it feels like
+*52:55*
+
+**Sam**: sometimes it just
+*52:56*
+
+**Sam**: feels like you just
+*52:56*
+
+**Sam**: need
+*52:57*
+
+**Sam**: I feel like your
+*52:58*
+
+**Sam**: life would be so much
+*52:59*
+
+**Sam**: better if you just
+*53:00*
+
+**Sam**: did nothing
+*53:01*
+
+**Sam**: with Tyco Homer
+*53:02*
+
+**Sam**: for six months.
+*53:02*
+
+**Sam**: I don't know
+*53:06*
+
+**Sam**: that's
+*53:06*
+
+**Sam**: that would be
+*53:07*
+
+**Sam**: kind of ridiculous
+*53:08*
+
+**Sam**: Ole Man.
+*53:10*
+
+**Sam**: I don't know.
+*53:10*
+
+**Sam**: I know you're like
+*53:11*
+
+**Sam**: so committed
+*53:11*
+
+**Emily Harden**: that you can't
+*53:12*
+
+**Sam**: get away from
+*53:13*
+
+**Sam**: you're just like
+*53:13*
+
+**Sam**: well something
+*53:16*
+
+**Sam**: like that.
+*53:16*
+
+**Emily Harden**: I'm going to try.
+*53:16*
+
+**Sam**: That.
+*53:18*
+
+**Sam**: And just like get
+*53:21*
+
+**Sam**: get her
+*53:22*
+
+**Sam**: get it to be her idea.
+*53:23*
+
+**Emily Harden**: Yeah.
+*53:26*
+
+**Emily Harden**: To full level.
+*53:26*
+
+**Emily Harden**: You can try.
+*53:28*
+
+**Sam**: Because it's
+*53:31*
+
+**Sam**: it's just like
+*53:31*
+
+**Sam**: it's just like
+*53:32*
+
+**Emily Harden**: I just don't want you
+*53:32*
+
+**Emily Harden**: to put a ton
+*53:34*
+
+**Emily Harden**: like don't put a ton
+*53:35*
+
+**Emily Harden**: of effort into trying
+*53:36*
+
+**Emily Harden**: to fix her.
+*53:37*
+
+**Sam**: Well the hard part is like
+*53:37*
+
+**Sam**: she's still pulling
+*53:38*
+
+**Sam**: like we did
+*53:40*
+
+**Sam**: she still has an effect
+*53:41*
+
+**Sam**: on the community.
+*53:42*
+
+**Emily Harden**: Yes.
+*53:43*
+
+**Sam**: Like we
+*53:43*
+
+**Sam**: what was it
+*53:45*
+
+**Sam**: One of the user group leaders said, like, hey, how do I take myself off of the meetup.com group?
+*53:45*
+
+**Sam**: And I was like, dang.
+*53:53*
+
+**Sam**: And I read it, and it was posted, like, an hour or two before.
+*53:55*
+
+**Sam**: And then Ole Man put, like, a crickets reaction on it.
+*54:00*
+
+**Sam**: She's like, what?
+*54:04*
+
+**Emily Harden**: Yeah.
+*54:06*
+
+**Emily Harden**: So you can try and do the thing that I did occasionally where, especially when I wasn't working full time,
+*54:07*
+
+**Emily Harden**: where I was like, hey, just a reminder, this is entirely, to post an announcement,
+*54:12*
+
+**Emily Harden**: just a reminder, this is an entirely volunteer-led effort.
+*54:18*
+
+**Emily Harden**: If you ask for a request, keep in mind it's going to take 24 to 48 hours minimum
+*54:21*
+
+**Emily Harden**: for something to get addressed, unless it's incredibly painless.
+*54:26*
+
+**Emily Harden**: I mean, don't lose that word, but you know what I'm saying.
+*54:31*
+
+**Sam**: Do you have those same somewhere?
+*54:36*
+
+**Emily Harden**: No, I just kind of chat.
+*54:38*
+
+**Sam**: Remind me to look up Emily's post about, you know, instant replies.
+*54:40*
+
+**Emily Harden**: Yeah.
+*54:47*
+
+**Sam**: I want to look at that.
+*54:49*
+
+**Sam**: I don't know.
+*54:50*
+
+**Sam**: That just feels, to me, it's just too obvious that it's passively talking to people.
+*54:52*
+
+**Emily Harden**: I always say we've got a few.
+*54:59*
+
+**Emily Harden**: It wasn't just you.
+*55:01*
+
+**Emily Harden**: That kind of stuff.
+*55:03*
+
+**Emily Harden**: Right?
+*55:04*
+
+**Emily Harden**: Like, multiple people have been submitting blah, blah, blah.
+*55:05*
+
+**Emily Harden**: Even though it's just hard, I would have said multiple.
+*55:08*
+
+**Sam**: That stuff still feels like...
+*55:13*
+
+**Emily Harden**: It is.
+*55:15*
+
+**Sam**: There's a little bit like...
+*55:16*
+
+**Sam**: You read that and you're like...
+*55:17*
+
+**Sam**: The word reads that, Ole Man reads that.
+*55:19*
+
+**Sam**: It's just like...
+*55:21*
+
+**Emily Harden**: She, I don't think, has the self-awareness to know that that's better.
+*55:23*
+
+**Emily Harden**: I feel like...
+*55:27*
+
+**Emily Harden**: I...
+*55:29*
+
+**Emily Harden**: I have left Oklahoma now.
+*55:31*
+
+**Sam**: I...
+*55:33*
+
+**Sam**: Do you still get bothered?
+*55:36*
+
+**Sam**: No.
+*55:37*
+
+**Sam**: Oh, okay.
+*55:38*
+
+**Emily Harden**: I was for like the first week or two after that, but after that, no.
+*55:38*
+
+**Emily Harden**: Occasionally, I think.
+*55:45*
+
+**Emily Harden**: Nothing from her.
+*55:47*
+
+**Emily Harden**: I just...
+*55:50*
+
+**Emily Harden**: She needs to know who to ask each particular question she has to.
+*55:53*
+
+**Emily Harden**: And she needs to know the answer to every question she has within 10 minutes.
+*55:59*
+
+**Emily Harden**: And if she has the same question as the person, that's why she replied cricket.
+*56:04*
+
+**Emily Harden**: Because she didn't know the answer.
+*56:09*
+
+**Emily Harden**: Right?
+*56:12*
+
+**Emily Harden**: If she doesn't have the answer, then she thinks, wow, someone should have had that answer for me.
+*56:12*
+
+**Emily Harden**: And I should have known that answer already.
+*56:18*
+
+**Emily Harden**: And...
+*56:21*
+
+**Emily Harden**: I don't know.
+*56:27*
+
+**Emily Harden**: I don't know what to tell you, man.
+*56:28*
+
+**Emily Harden**: Like, it's...
+*56:29*
+
+**Emily Harden**: It's been a drain for five years.
+*56:32*
+
+**Sam**: No, it's like a drain on the board.
+*56:34*
+
+**Sam**: It's a drain on the community.
+*56:36*
+
+**Sam**: And it's more like, I want to set up, I want to plan on a conversation.
+*56:39*
+
+**Sam**: Like a worst case scenario where we just have a meeting with Pemberley.
+*56:46*
+
+**Sam**: Like a, you can't participate in the type of homework.
+*56:48*
+
+**Sam**: And then reverse engineer that with like a series of like community expectations.
+*56:52*
+
+**Sam**: You can't do crickets on like the flu.
+*56:59*
+
+**Sam**: you have to communicate.
+*57:02*
+
+**Emily Harden**: I'm also curious about this.
+*57:05*
+
+**Emily Harden**: It's a lot better than Perkins.
+*57:06*
+
+**Sam**: Yeah, yeah, yeah.
+*57:08*
+
+**Sam**: And it's reverse engineering,
+*57:09*
+
+**Sam**: this kind of pattern,
+*57:12*
+
+**Sam**: like one example,
+*57:14*
+
+**Sam**: just trying to have a conversation with her
+*57:14*
+
+**Sam**: and trying to do the incept thing
+*57:18*
+
+**Sam**: where it just tried to make it her idea.
+*57:22*
+
+**Sam**: And it just costs so much energy
+*57:26*
+
+**Sam**: and so much, like, motivation.
+*57:31*
+
+**Sam**: Especially, like, it's going to be a dream on any board members.
+*57:34*
+
+**Sam**: And it's just like there's a...
+*57:38*
+
+**Sam**: It's not super tangible, but it's a little tangible cost
+*57:41*
+
+**Sam**: to just tolerating that.
+*57:47*
+
+**Emily Harden**: Kendall's the one who was like,
+*57:50*
+
+**Emily Harden**: hey, you don't work for Ole Man.
+*57:52*
+
+**Emily Harden**: And he was like, ugh.
+*57:53*
+
+**Emily Harden**: And that kind of, like...
+*57:56*
+
+**Sam**: Oh, like, kind of come to Jesus.
+*57:57*
+
+**Emily Harden**: Yeah.
+*58:00*
+
+**Sam**: with you?
+*58:00*
+
+**Emily Harden**: But,
+*58:02*
+
+**Emily Harden**: you know, I don't know if you know this,
+*58:05*
+
+**Emily Harden**: Ole Man was on the board.
+*58:07*
+
+**Emily Harden**: Yeah. And was asked to leave.
+*58:08*
+
+**Emily Harden**: The board? Yes.
+*58:11*
+
+**Emily Harden**: And did she leave?
+*58:13*
+
+**Emily Harden**: Yeah, she left the board.
+*58:15*
+
+**Emily Harden**: I don't know if she was kicked off
+*58:16*
+
+**Emily Harden**: or was asked to leave.
+*58:18*
+
+**Emily Harden**: She was no longer allowed on the board
+*58:19*
+
+**Emily Harden**: because of this.
+*58:21*
+
+**Emily Harden**: So now she's a user
+*58:24*
+
+**Emily Harden**: group leader, except for she's not anymore.
+*58:25*
+
+**Emily Harden**: Right? So come January
+*58:27*
+
+**Emily Harden**: one she does not running a user group kick her out of the user right so kick her out of the user
+*58:30*
+
+**Emily Harden**: organized channel i always did a cleanup of the user organized channel that's that's a good idea
+*58:37*
+
+**Emily Harden**: um but then i'll tell you what her feedback is going to be that she's part of she codes okc
+*58:45*
+
+**Emily Harden**: but she's not one of their official leaders so sorry we're only keeping official leaders on here
+*58:50*
+
+**Sam**: you know um i don't want to but to me like that's still it's playing into this game of like
+*58:58*
+
+**Sam**: she knows the rules too well
+*59:06*
+
+**Sam**: and there needs to be there almost needs to be a like people outside the board don't like this
+*59:12*
+
+**Sam**: Like, there's no rule about this other than this is a vet.
+*59:23*
+
+**Sam**: Like, there was, like, I was walking with Jansen, like, the lawyer.
+*59:27*
+
+**Sam**: I was asking him all these questions about, like, weird laws.
+*59:31*
+
+**Sam**: I'm just like, what if I dropped ice on the ground?
+*59:35*
+
+**Sam**: Can I get a ticket for littering?
+*59:39*
+
+**Sam**: He's like, no.
+*59:40*
+
+**Sam**: He's like, okay, but what if I dump a dump truck of ice on the ground?
+*59:41*
+
+**Sam**: He's like, there is a law for, like, just general nuisance.
+*59:44*
+
+**Sam**: Yeah.
+*59:48*
+
+**Sam**: That they can just use for whatever they want.
+*59:48*
+
+**Sam**: I was like, if there's just a general nuisance, kind of like community nuisance thing, that could be, I mean, we would probably have to put that in the bylaws before the end of the year.
+*59:50*
+
+**Sam**: but just this kind of like staged like hey we're setting these expectations just like we gotta
+*01:00:05*
+
+**Sam**: provide feedback that
+*01:00:17*
+
+**Emily Harden**: people are these are the posts that she's the only one that seems to be getting all this information
+*01:00:20*
+
+**Emily Harden**: And is she speaking for the people or is she speaking for people?
+*01:00:32*
+
+**Sam**: That's what I'm trying to figure out.
+*01:00:35*
+
+**Sam**: Because that's why I'm talking.
+*01:00:36*
+
+**Sam**: That's why I talk to Laura.
+*01:00:37*
+
+**Sam**: That's why I talk with Aaron.
+*01:00:38*
+
+**Sam**: Or I'm going to talk with Aaron.
+*01:00:40*
+
+**Sam**: Because if there's feedback from other people,
+*01:00:50*
+
+**Sam**: I'm just like, even the feedback of like,
+*01:00:52*
+
+**Sam**: I don't even want to bother with her.
+*01:00:54*
+
+**Sam**: I'll just go along with whatever she says.
+*01:00:56*
+
+**Sam**: That's a kind of feedback.
+*01:01:00*
+
+**Sam**: So that's something we can build an action from.
+*01:01:02*
+
+**Sam**: But it's like, if she's going to be slippery,
+*01:01:12*
+
+**Sam**: there's always going to be a way she gets out.
+*01:01:15*
+
+**Sam**: Then ultimately, it just kind of has to be...
+*01:01:19*
+
+**Sam**: Somebody has to be the bad guy and just like,
+*01:01:21*
+
+**Sam**: okay, I'm kicking you out of ten moment.
+*01:01:23*
+
+**Sam**: As like the ultimate, like the last resort.
+*01:01:28*
+
+**Sam**: Is your parking still good?
+*01:01:45*
+
+**Emily Harden**: No, but it's right there.
+*01:01:47*
+
+**Emily Harden**: Is there a parking person?
+*01:01:49*
+
+**Emily Harden**: Did you say parking person?
+*01:01:50*
+
+**Sam**: Around this time, they can.
+*01:01:51*
+
+**Sam**: They might be out.
+*01:01:52*
+
+**Sam**: Just add an hour to it.
+*01:01:53*
+
+**Sam**: Just in case.
+*01:01:54*
+
+**Sam**: Every once in a while, they'll get you.
+*01:01:57*
+
+**Sam**: It's very rare that they'll get you like within 10 minutes of your inspiring, but it's just like
+*01:02:01*
+
+**Sam**: I've gotten one ticket and I almost got a ticket the other day.
+*01:02:09*
+
+**Sam**: They are on it.
+*01:02:13*
+
+**Emily Harden**: I actually used my gift cards out of money, so it's worth.
+*01:02:17*
+
+**Emily Harden**: I need to delete that from my Apple wallet.
+*01:02:24*
+
+**Sam**: What kind of gift cards go into Apple Wallet?
+*01:02:30*
+
+**Sam**: Visa gift card.
+*01:02:32*
+
+**Sam**: Oh.
+*01:02:34*
+
+**Emily Harden**: I was like, I don't know what to use this for, so I used it for parking.
+*01:02:41*
+
+**Emily Harden**: Because it was like 20 bucks, and I was like...
+*01:02:46*
+
+**Emily Harden**: So I used it for parking, I used it for QT,
+*01:02:50*
+
+**Emily Harden**: And eventually, last week at QT, it was like, only a dollar went through.
+*01:02:54*
+
+**Emily Harden**: You have $1.50 left to spend.
+*01:02:58*
+
+**Emily Harden**: Like $1.50 you still owe.
+*01:03:00*
+
+**Emily Harden**: And I was like, perfect.
+*01:03:02*
+
+**Emily Harden**: Now I know it's empty.
+*01:03:03*
+
+**Emily Harden**: You used every last penny of it.
+*01:03:05*
+
+**Emily Harden**: I mean, we've spent 30 minutes talking about that right now, right?
+*01:03:17*
+
+**Emily Harden**: So I think spending a little bit of time on it is fine,
+*01:03:23*
+
+**Emily Harden**: but don't spend the majority of your time on it.
+*01:03:29*
+
+**Emily Harden**: No, you're right.
+*01:03:32*
+
+**Emily Harden**: And then occasionally you'll have additional people that,
+*01:03:35*
+
+**Emily Harden**: for lack of a better term, pull a Ole Man for a little while,
+*01:03:45*
+
+**Emily Harden**: but they don't last long and they're fine.
+*01:03:48*
+
+**Emily Harden**: And then eventually they typically get mad and cause some sort of conduct issue, and then you kick them out.
+*01:03:52*
+
+**Emily Harden**: That's the other thing.
+*01:04:04*
+
+**Emily Harden**: I do print the code of conduct, and I do have that visible at every conference.
+*01:04:05*
+
+**Emily Harden**: And I always put up a voter release page on the front of every door.
+*01:04:14*
+
+**Emily Harden**: so that I can take photos
+*01:04:24*
+
+**Emily Harden**: of them and post them publicly.
+*01:04:26*
+
+**Sam**: I'm going to do something real quick.
+*01:04:32*
+
+**Sam**: We're going to let Chet G.P.T. figure that one out.
+*01:04:34*
+
+**Emily Harden**: I think
+*01:04:40*
+
+**Emily Harden**: she's not being mindful
+*01:04:41*
+
+**Emily Harden**: or the
+*01:04:43*
+
+**Emily Harden**: thing that
+*01:04:44*
+
+**Emily Harden**: can align with.
+*01:04:47*
+
+**Emily Harden**: Yeah, a little bit.
+*01:04:48*
+
+**Emily Harden**: A little bit of that.
+*01:04:49*
+
+**Sam**: Anyway
+*01:04:54*
+
+**Sam**: We'll let Chet BGT figure that out
+*01:04:55*
+
+**Emily Harden**: There you go
+*01:04:57*
+
+**Sam**: Anything conference wise
+*01:04:59*
+
+**Sam**: Anything
+*01:05:00*
+
+**Sam**: Anything you think
+*01:05:01*
+
+**Sam**: It's important to know
+*01:05:04*
+
+**Sam**: Any documents I should look at
+*01:05:06*
+
+**Emily Harden**: I typically refund tickets
+*01:05:07*
+
+**Emily Harden**: If someone needs it
+*01:05:09*
+
+**Emily Harden**: Okay
+*01:05:11*
+
+**Sam**: Oh but that's optional
+*01:05:12*
+
+**Emily Harden**: It is optional
+*01:05:14*
+
+**Emily Harden**: Okay
+*01:05:15*
+
+**Sam**: I mean I think
+*01:05:15*
+
+**Sam**: I think it would make sense
+*01:05:16*
+
+**Sam**: Because I don't think
+*01:05:17*
+
+**Emily Harden**: I would say no refunds
+*01:05:17*
+
+**Emily Harden**: but like one time someone broke their leg.
+*01:05:19*
+
+**Emily Harden**: Like, yeah, I'm going to agree with that.
+*01:05:21*
+
+**Emily Harden**: That kind of thing.
+*01:05:23*
+
+**Emily Harden**: We don't typically have many.
+*01:05:23*
+
+**Emily Harden**: It's like one or two in the conference.
+*01:05:24*
+
+**Sam**: Yeah.
+*01:05:26*
+
+**Emily Harden**: Or changing names of the attendees,
+*01:05:29*
+
+**Emily Harden**: especially with companies.
+*01:05:32*
+
+**Emily Harden**: People do that a lot.
+*01:05:33*
+
+**Emily Harden**: They're like, oh, Sue's going to go.
+*01:05:34*
+
+**Emily Harden**: I'm just kidding.
+*01:05:35*
+
+**Emily Harden**: Bob's going.
+*01:05:36*
+
+**Emily Harden**: It's fine.
+*01:05:37*
+
+**Emily Harden**: If they're buying six tickets, four tickets,
+*01:05:40*
+
+**Emily Harden**: I try and give them a discount.
+*01:05:45*
+
+**Emily Harden**: Sometimes it puts us at a discount.
+*01:05:48*
+
+**Emily Harden**: Love that.
+*01:05:50*
+
+**Emily Harden**: Make sure if you do any sort of drawing,
+*01:05:57*
+
+**Emily Harden**: you refer to it as a drawing and not a raffle.
+*01:05:59*
+
+**Sam**: Oh, because that's like a legal thing.
+*01:06:02*
+
+**Sam**: It's like one is gambling, one is just...
+*01:06:04*
+
+**Emily Harden**: Correct.
+*01:06:06*
+
+**Emily Harden**: Like a fun thing.
+*01:06:07*
+
+**Emily Harden**: Everyone loves the t-shirts.
+*01:06:10*
+
+**Emily Harden**: I do think t-shirts make sense.
+*01:06:12*
+
+**Emily Harden**: I think there is a
+*01:06:14*
+
+**Emily Harden**: potential that you could do like
+*01:06:19*
+
+**Emily Harden**: say the first 50 attendees get t-shirts
+*01:06:21*
+
+**Emily Harden**: or something along those lines.
+*01:06:24*
+
+**Sam**: First people who buy tickets or first people who show up?
+*01:06:25*
+
+**Emily Harden**: First people who buy tickets I would say
+*01:06:28*
+
+**Emily Harden**: because
+*01:06:30*
+
+**Emily Harden**: it's a gamble when you order t-shirts
+*01:06:32*
+
+**Emily Harden**: on how many you're ordering
+*01:06:34*
+
+**Emily Harden**: because you're ordering six weeks in advance.
+*01:06:35*
+
+**Emily Harden**: The sizes you're ordering, everything.
+*01:06:37*
+
+**Emily Harden**: So to say the first 50
+*01:06:41*
+
+**Emily Harden**: you might have, or first 25, or first whatever, you might have more of an idea of a ticket,
+*01:06:43*
+
+**Emily Harden**: of a t-shirt sizes.
+*01:06:48*
+
+**Emily Harden**: We also, at one point, opted to let people checkmark if they didn't want their t-shirt,
+*01:06:54*
+
+**Emily Harden**: they wanted to consider the main portion of their ticket to be a donation to Tech,
+*01:07:02*
+
+**Emily Harden**: so like, the fact that you're not getting a t-shirt is helping Tech, right?
+*01:07:06*
+
+**Emily Harden**: We only had like two or three people checkmark that box.
+*01:07:13*
+
+**Sam**: I almost wish, I don't know if Tito does this.
+*01:07:16*
+
+**Sam**: There was a, there's this company called Humble Bundle.
+*01:07:18*
+
+**Emily Harden**: Yes.
+*01:07:23*
+
+**Sam**: Yeah, they let you choose your price of how much you want to pay.
+*01:07:24*
+
+**Emily Harden**: Yeah.
+*01:07:27*
+
+**Sam**: Because it's all non-profit.
+*01:07:27*
+
+**Emily Harden**: Right.
+*01:07:29*
+
+**Emily Harden**: It's all.
+*01:07:29*
+
+**Emily Harden**: I don't think, yes and no.
+*01:07:30*
+
+**Emily Harden**: Yeah.
+*01:07:33*
+
+**Emily Harden**: We also had a donate the price of your, like, or the price of your ticket,
+*01:07:35*
+
+**Emily Harden**: but it had to be a minimum of price, I think.
+*01:07:41*
+
+**Emily Harden**: I think we did have that once.
+*01:07:43*
+
+**Emily Harden**: You could offer the t-shirt as an add-on, potentially, even.
+*01:07:48*
+
+**Emily Harden**: T-shirts are like $1,500 or $2,000 if we spent on t-shirts.
+*01:07:52*
+
+**Emily Harden**: And it always ends up being a bunch of leftover t-shirts.
+*01:07:56*
+
+**Sam**: So might as well.
+*01:08:02*
+
+**Emily Harden**: Might as well not have...
+*01:08:03*
+
+**Emily Harden**: I'm considering giving some of my t-shirts back to Duval Mug.
+*01:08:07*
+
+**Emily Harden**: to give away to other people.
+*01:08:10*
+
+**Emily Harden**: Well, I need conference t-shirts, so yes, please.
+*01:08:11*
+
+**Emily Harden**: Yeah.
+*01:08:14*
+
+**Emily Harden**: Because I put all of mine away.
+*01:08:17*
+
+**Emily Harden**: Because I was like, I can't wear TechMama t-shirts for a minute.
+*01:08:19*
+
+**Emily Harden**: It's sad.
+*01:08:21*
+
+**Emily Harden**: Yeah.
+*01:08:26*
+
+**Emily Harden**: Other swag has been give or take.
+*01:08:29*
+
+**Emily Harden**: People really liked the spinny fidget spinners,
+*01:08:33*
+
+**Emily Harden**: but that's because I got them on a real good deal,
+*01:08:35*
+
+**Emily Harden**: and we had a lot of money at that time.
+*01:08:37*
+
+**Emily Harden**: The bison, very expensive.
+*01:08:40*
+
+**Emily Harden**: Also a lot of money.
+*01:08:42*
+
+**Emily Harden**: Stickers are cheap.
+*01:08:44*
+
+**Emily Harden**: Easiest thing to get.
+*01:08:46*
+
+**Emily Harden**: But people like swag.
+*01:08:49*
+
+**Emily Harden**: Rogue recruitment typically donates something.
+*01:08:51*
+
+**Emily Harden**: If not a sponsorship, they'll donate some items.
+*01:08:59*
+
+**Sam**: Add contacting rogue recruitment to the action items for sponsorship.
+*01:09:02*
+
+**Emily Harden**: but she does like to be talked to.
+*01:09:10*
+
+**Emily Harden**: We'd love to, instead of saying, we want you to sponsor,
+*01:09:14*
+
+**Emily Harden**: we'd say, we'd love to have a lunch with you
+*01:09:19*
+
+**Emily Harden**: and chat with you about how you can have the type of home.
+*01:09:21*
+
+**Emily Harden**: And then she's one of them.
+*01:09:24*
+
+**Sam**: I might, is that, Peter finally, Peter Mullen,
+*01:09:26*
+
+**Sam**: you finally, you finally like gave me a soft commitment
+*01:09:30*
+
+**Sam**: of like, I knew I'd have $5,000 for you for this next year.
+*01:09:34*
+
+**Sam**: and so I did the thing he's been asking me to do
+*01:09:39*
+
+**Sam**: I got the board
+*01:09:40*
+
+**Sam**: I got like half the board on a call with him
+*01:09:41*
+
+**Sam**: and it was just
+*01:09:44*
+
+**Sam**: he wanted to just give us advice
+*01:09:45*
+
+**Sam**: and it was just all stuff
+*01:09:46*
+
+**Sam**: mostly stuff we had heard before
+*01:09:48*
+
+**Sam**: and it was
+*01:09:49*
+
+**Sam**: it was a little bit frustrating
+*01:09:50*
+
+**Sam**: like I can't believe I pulled on
+*01:09:51*
+
+**Sam**: so much of the world
+*01:09:52*
+
+**Emily Harden**: yeah
+*01:09:53*
+
+**Sam**: um
+*01:09:54*
+
+**Sam**: he just wanted to like send me an oracle to us
+*01:09:56*
+
+**Sam**: which is fine
+*01:10:01*
+
+**Sam**: like even he said like
+*01:10:02*
+
+**Sam**: I don't know of a better
+*01:10:03*
+
+**Sam**: organization for like
+*01:10:05*
+
+**Sam**: concentrated software engineering talent than Tacoma, which is good.
+*01:10:08*
+
+**Emily Harden**: Yeah.
+*01:10:11*
+
+**Sam**: But we couldn't get a hard commitment of sponsorship out of them.
+*01:10:14*
+
+**Sam**: Other than the next step of we've got to set up a credit card
+*01:10:20*
+
+**Sam**: or we've got to set up a regional bank account.
+*01:10:23*
+
+**Sam**: So is it like that?
+*01:10:28*
+
+**Emily Harden**: Hers is more, she doesn't want to just be like,
+*01:10:30*
+
+**Emily Harden**: give us money, give us money, give us money.
+*01:10:33*
+
+**Sam**: I can take somebody out to lunch.
+*01:10:35*
+
+**Emily Harden**: And hers is more of a, she's a career, I mean, like, it's a recording agency, right?
+*01:10:39*
+
+**Emily Harden**: Yeah.
+*01:10:46*
+
+**Emily Harden**: So, like, I always talk to her, I was like, maybe you come give a seminar or something.
+*01:10:46*
+
+**Emily Harden**: She has a newborn right now, so she's probably not going to want to.
+*01:10:52*
+
+**Emily Harden**: Right.
+*01:10:56*
+
+**Emily Harden**: You know.
+*01:10:57*
+
+**Emily Harden**: That would be a good thing for all the, like, to get Tulsa Tech students to be interested in coming to have some sort of recruiter person.
+*01:10:58*
+
+**Sam**: Before I put, just because I...
+*01:11:09*
+
+**Emily Harden**: I'm going to get more water.
+*01:11:11*
+
+**Emily Harden**: Oh, go for it.
+*01:11:12*
+
+**Sam**: Yeah, you think Grover Fruitman would want to sponsor the interview thing?
+*01:11:19*
+
+**Emily Harden**: Maybe.
+*01:11:24*
+
+**Sam**: Okay.
+*01:11:25*
+
+**Sam**: Before I put energy into it, I want to at least some kind of...
+*01:11:25*
+
+**Emily Harden**: Then I want her to next year when she doesn't have a newborn.
+*01:11:30*
+
+**Sam**: What's that?
+*01:11:33*
+
+**Emily Harden**: Maybe next year when she doesn't have a newborn as opposed to this year.
+*01:11:34*
+
+**Sam**: I don't know if I'm going to be on the board next year.
+*01:11:37*
+
+**Emily Harden**: That's fair.
+*01:11:39*
+
+**Sam**: They elect to be vice president.
+*01:11:40*
+
+**Sam**: Part of that is being president in 2027.
+*01:11:42*
+
+**Sam**: I was like, I don't know.
+*01:11:44*
+
+**Sam**: I don't know that.
+*01:11:46*
+
+**Emily Harden**: Oh, you didn't know that.
+*01:11:47*
+
+**Sam**: I don't know that I want to do that.
+*01:11:48*
+
+**Emily Harden**: Yeah.
+*01:11:50*
+
+**Sam**: So I took the vice president one, but I was just like, we've got to, we've got to, you
+*01:11:50*
+
+**Sam**: We'll have to figure out somebody else for president.
+*01:11:55*
+
+**Emily Harden**: Yeah.
+*01:11:57*
+
+**Emily Harden**: Well, and now that I'm off the board, I'll say this.
+*01:11:58*
+
+**Emily Harden**: I don't really want to work with Jalen.
+*01:12:02*
+
+**Emily Harden**: He's president.
+*01:12:06*
+
+**Emily Harden**: So.
+*01:12:07*
+
+**Emily Harden**: Yeah.
+*01:12:08*
+
+**Sam**: Add talking to Daniel about SecTech sponsoring 200.
+*01:12:09*
+
+**Sam**: Okay.
+*01:12:12*
+
+**Sam**: To my action items.
+*01:12:12*
+
+**Sam**: All right.
+*01:12:14*
+
+**Sam**: Remind me to do an action item of current and former board channel as a attendee source.
+*01:12:15*
+
+**Emily Harden**: And sponsors.
+*01:12:25*
+
+**Sam**: Oh yeah, sponsors, source.
+*01:12:28*
+
+**Sam**: Is that it?
+*01:12:36*
+
+**Emily Harden**: I'm trying to think.
+*01:12:38*
+
+**Emily Harden**: There was, there's a bunch of like ideas that just never happened.
+*01:12:40*
+
+**Emily Harden**: One of them for 200OK was, I went to a conference and they had a booth set up.
+*01:12:46*
+
+**Emily Harden**: where you could stuff bags for kids going back to school or something.
+*01:12:55*
+
+**Sam**: Okay.
+*01:13:01*
+
+**Emily Harden**: But that nonprofit had their own little section that was, like, doing that.
+*01:13:02*
+
+**Emily Harden**: And so if you got overwhelmed or tired or annoyed in the conference, you could go do that.
+*01:13:07*
+
+**Sam**: Oh, that's nice.
+*01:13:11*
+
+**Emily Harden**: And I really liked that.
+*01:13:12*
+
+**Sam**: Yeah.
+*01:13:13*
+
+**Emily Harden**: And I think that's a good something we could do.
+*01:13:13*
+
+**Emily Harden**: Good fudge.
+*01:13:17*
+
+**Emily Harden**: If you're doing it, get with it.
+*01:13:20*
+
+**Emily Harden**: They're pet-friendly.
+*01:13:22*
+
+**Sam**: Oh, like bring your pets to conference?
+*01:13:24*
+
+**Emily Harden**: No, no, no.
+*01:13:26*
+
+**Emily Harden**: That's a little much.
+*01:13:26*
+
+**Emily Harden**: But you could have an adopt-a-pet type food there.
+*01:13:28*
+
+**Emily Harden**: Like just a couple of dogs.
+*01:13:32*
+
+**Sam**: That'd feel good.
+*01:13:34*
+
+**Sam**: We could invite the cat cafe or just a pet place to bring some animals.
+*01:13:35*
+
+**Emily Harden**: Yeah.
+*01:13:45*
+
+**Sam**: And just have a little animal group.
+*01:13:45*
+
+**Emily Harden**: Right.
+*01:13:47*
+
+**Emily Harden**: I mean, just not...
+*01:13:48*
+
+**Sam**: Okay, hold on.
+*01:13:49*
+
+**Sam**: Okay.
+*01:13:50*
+
+**Sam**: We could have somebody sponsor the pet a cat or pet a dog.
+*01:13:51*
+
+**Sam**: Yeah.
+*01:13:57*
+
+**Emily Harden**: Like a little animal therapy, you know?
+*01:14:01*
+
+**Sam**: Okay.
+*01:14:04*
+
+**Sam**: The wellness, animal wellness.
+*01:14:05*
+
+**Emily Harden**: Yeah.
+*01:14:08*
+
+**Sam**: I like this.
+*01:14:08*
+
+**Emily Harden**: Right?
+*01:14:09*
+
+**Sam**: Okay, what were you going to say?
+*01:14:10*
+
+**Emily Harden**: I don't know.
+*01:14:11*
+
+**Emily Harden**: We talked about doing, like, morning yoga, the morning of the conference places.
+*01:14:13*
+
+**Emily Harden**: We talked about doing some of those kind of things.
+*01:14:18*
+
+**Sam**: Okay, AI.
+*01:14:20*
+
+**Sam**: Add yoga and pet a cat, pet a dog, wellness booth thing to my action items for sponsor opportunities.
+*01:14:21*
+
+**Sam**: I mean, just like the mini cat cafe sponsored by Regent Bank.
+*01:14:37*
+
+**Sam**: Yeah.
+*01:14:42*
+
+**Sam**: Or probably more like the Rose Recruit.
+*01:14:43*
+
+**Emily Harden**: GetWid itself, I feel like, because they're such, they have their pets on their website, right?
+*01:14:47*
+
+**Sam**: That's an interesting one.
+*01:14:53*
+
+**Sam**: I feel weird about trying to get GetWid to give you the venue for free.
+*01:14:55*
+
+**Emily Harden**: If they give you the venue for free, then they are a sponsor.
+*01:15:00*
+
+**Sam**: So I'm asking for more money on top of getting their whole venue.
+*01:15:02*
+
+**Emily Harden**: I would say what I would do, once you have the sponsor, pack it completely.
+*01:15:07*
+
+**Emily Harden**: You include a venue sponsor option.
+*01:15:13*
+
+**Emily Harden**: And then if they've already offered to do it for free, you mark out the new sponsor and you say taken and you put get with the slogan there.
+*01:15:16*
+
+**Emily Harden**: And then you send it to them and you say, thanks so much for marking this, for getting this taken care of for us.
+*01:15:23*
+
+**Emily Harden**: We really appreciate you.
+*01:15:28*
+
+**Emily Harden**: Thank you so much.
+*01:15:29*
+
+**Emily Harden**: But it includes the entire sponsorship perspective.
+*01:15:30*
+
+**Emily Harden**: So they see it if they do choose to.
+*01:15:33*
+
+**Sam**: Yeah, they can throw into like anything extra they want.
+*01:15:37*
+
+**Sam**: It's not an ask, it's just like a...
+*01:15:41*
+
+**Emily Harden**: A thank you.
+*01:15:42*
+
+**Emily Harden**: Purely saying thank you.
+*01:15:44*
+
+**Emily Harden**: You can also make a post on LinkedIn and say,
+*01:15:46*
+
+**Emily Harden**: we have a venue sponsor.
+*01:15:49*
+
+**Emily Harden**: It's Getwood.
+*01:15:50*
+
+**Emily Harden**: We have a food sponsor.
+*01:15:50*
+
+**Emily Harden**: It's this place.
+*01:15:53*
+
+**Emily Harden**: We're still searching for a blah, blah, blah sponsor.
+*01:15:53*
+
+**Emily Harden**: And so you tag all those companies.
+*01:15:56*
+
+**Emily Harden**: And then that one says empty or needed.
+*01:15:58*
+
+**Emily Harden**: Okay.
+*01:16:03*
+
+**Emily Harden**: But conference doesn't have to be boring.
+*01:16:08*
+
+**Emily Harden**: You know, like, it's not fun.
+*01:16:10*
+
+**Sam**: The, like, animal wellness.
+*01:16:13*
+
+**Emily Harden**: Yeah.
+*01:16:15*
+
+**Sam**: room or whatever it is.
+*01:16:15*
+
+**Emily Harden**: What about
+*01:16:18*
+
+**Emily Harden**: you know, what if
+*01:16:20*
+
+**Emily Harden**: you got the Rage Room
+*01:16:21*
+
+**Emily Harden**: to sponsor and
+*01:16:23*
+
+**Emily Harden**: afterwards someone got a
+*01:16:25*
+
+**Emily Harden**: $25 Rage Room certificate
+*01:16:27*
+
+**Emily Harden**: and they can throw
+*01:16:29*
+
+**Emily Harden**: a PC that they hated
+*01:16:32*
+
+**Emily Harden**: or something, right?
+*01:16:34*
+
+**Emily Harden**: That's a legitimate option.
+*01:16:36*
+
+**Emily Harden**: Right?
+*01:16:38*
+
+**Emily Harden**: There's all sorts of different weird
+*01:16:39*
+
+**Emily Harden**: niche things.
+*01:16:42*
+
+**Emily Harden**: I don't
+*01:16:46*
+
+**Emily Harden**: to be honest
+*01:16:48*
+
+**Emily Harden**: I started losing my spark
+*01:16:49*
+
+**Emily Harden**: probably a little early
+*01:16:50*
+
+**Emily Harden**: and so I stopped
+*01:16:52*
+
+**Emily Harden**: caring about all the new things
+*01:16:53*
+
+**Emily Harden**: but now that I've left
+*01:16:54*
+
+**Emily Harden**: I can be like
+*01:16:55*
+
+**Emily Harden**: oh yeah
+*01:16:55*
+
+**Emily Harden**: it's a little fun thing
+*01:16:56*
+
+**Sam**: yeah
+*01:16:58*
+
+**Sam**: I'll have to think of something
+*01:17:00*
+
+**Sam**: I don't want to do too much new stuff
+*01:17:01*
+
+**Sam**: because I want to
+*01:17:02*
+
+**Sam**: yeah
+*01:17:03*
+
+**Sam**: I'm still in my mind
+*01:17:03*
+
+**Sam**: I'm still like
+*01:17:04*
+
+**Sam**: trying to like
+*01:17:06*
+
+**Sam**: keep a good attitude
+*01:17:08*
+
+**Sam**: about like just
+*01:17:09*
+
+**Sam**: meeting
+*01:17:10*
+
+**Sam**: right
+*01:17:11*
+
+**Sam**: like rising to the level
+*01:17:12*
+
+**Emily Harden**: of like what it's been in the past yeah but which yeah i mean in the past it's it's never
+*01:17:13*
+
+**Emily Harden**: i don't think it's ever lost money yeah if it did it was like one or two k it wasn't much
+*01:17:22*
+
+**Sam**: or broke even well i mean it's like we didn't get we finally broke we broke even
+*01:17:33*
+
+**Sam**: and we paid off the credit cards and we had a little
+*01:17:39*
+
+**Sam**: from Thunder Plains.
+*01:17:43*
+
+**Background**: Nice.
+*01:17:44*
+
+**Sam**: So we're in the block.
+*01:17:44*
+
+**Sam**: Good.
+*01:17:48*
+
+**Sam**: For the beginning of the year.
+*01:17:49*
+
+**Sam**: I just don't want to.
+*01:17:51*
+
+**Emily Harden**: Yeah, don't spend it.
+*01:17:53*
+
+**Sam**: I don't want to like set that off on a bad path.
+*01:17:54*
+
+**Sam**: Especially with like a sea slaskin used to being treasure.
+*01:18:00*
+
+**Sam**: We still have Anna.
+*01:18:03*
+
+**Sam**: Yeah.
+*01:18:04*
+
+**Sam**: I want a good landing.
+*01:18:07*
+
+**Emily Harden**: I'll also give you a heads up.
+*01:18:10*
+
+**Emily Harden**: I have been asked to potentially be a board member for KCDC, Kansas City,
+*01:18:15*
+
+**Emily Harden**: Developer Conference.
+*01:18:22*
+
+**Emily Harden**: They are wanting to create a Tecna Homa-type organization in Kansas City.
+*01:18:23*
+
+**Emily Harden**: Maybe Ole Man.
+*01:18:27*
+
+**Emily Harden**: Right?
+*01:18:29*
+
+**Sam**: We actually have a community member going to give us a board.
+*01:18:31*
+
+**Emily Harden**: They already, it's a small board.
+*01:18:33*
+
+**Emily Harden**: It is three people right now, and they're going to expand it to five.
+*01:18:37*
+
+**Emily Harden**: Because one of the people on the board is going to recuse himself so that he can be ED.
+*01:18:43*
+
+**Emily Harden**: Any people.
+*01:18:48*
+
+**Emily Harden**: Oh.
+*01:18:48*
+
+**Emily Harden**: Executive director.
+*01:18:49*
+
+**Emily Harden**: Yeah.
+*01:18:50*
+
+**Emily Harden**: Getting paid a lot more.
+*01:18:51*
+
+**Emily Harden**: But they're asking me to be a board member because they want me to bring in the knowledge base of Tech Mahomes.
+*01:18:55*
+
+**Emily Harden**: But that's in year one.
+*01:19:04*
+
+**Emily Harden**: year two and three they want because it's a three-year tournament um potentially regional
+*01:19:06*
+
+**Emily Harden**: influence and to partner with organizations oh yeah they want to be so they might have the funds
+*01:19:12*
+
+**Emily Harden**: and i don't want to say this now they might have the funds to be like kcdc sponsors 200 okay a little
+*01:19:20*
+
+**Emily Harden**: um they might want to speak a slot for that i don't know but i'm just
+*01:19:26*
+
+**Emily Harden**: I'll let you know.
+*01:19:33*
+
+**Emily Harden**: But they have more money than we ever have had.
+*01:19:34*
+
+**Emily Harden**: Good.
+*01:19:37*
+
+**Emily Harden**: You've got...
+*01:19:39*
+
+**Emily Harden**: They run a giant conference.
+*01:19:40*
+
+**Emily Harden**: KCDC is a 3,000-person conference, so...
+*01:19:42*
+
+**Sam**: Incredible.
+*01:19:48*
+
+**Sam**: That was one of the feedback of just, like, I forget.
+*01:19:49*
+
+**Sam**: I feel like that was one of the more, just feedback of the patterns I've seen in the community.
+*01:19:53*
+
+**Sam**: There's, like, people want more developer conferences.
+*01:19:58*
+
+**Sam**: It's just like, okay.
+*01:20:01*
+
+**Sam**: where's our
+*01:20:04*
+
+**Sam**: guest sponsors
+*01:20:05*
+
+**Sam**: we could talk to
+*01:20:06*
+
+**Emily Harden**: yeah
+*01:20:06*
+
+**Emily Harden**: we also talked about
+*01:20:08*
+
+**Emily Harden**: um
+*01:20:09*
+
+**Emily Harden**: keeping the vibe
+*01:20:10*
+
+**Emily Harden**: on local
+*01:20:11*
+
+**Emily Harden**: like 200k
+*01:20:12*
+
+**Emily Harden**: is the local conference
+*01:20:12*
+
+**Emily Harden**: like
+*01:20:14*
+
+**Emily Harden**: you have to be like
+*01:20:14*
+
+**Emily Harden**: in the know
+*01:20:15*
+
+**Emily Harden**: and you have to
+*01:20:15*
+
+**Emily Harden**: like
+*01:20:16*
+
+**Emily Harden**: it's not recorded
+*01:20:16*
+
+**Emily Harden**: for a reason
+*01:20:18*
+
+**Emily Harden**: like
+*01:20:19*
+
+**Emily Harden**: we talked about like
+*01:20:20*
+
+**Emily Harden**: Luke talking about
+*01:20:21*
+
+**Emily Harden**: some of the stuff
+*01:20:22*
+
+**Emily Harden**: we can't talk about
+*01:20:22*
+
+**Emily Harden**: but he does
+*01:20:24*
+
+**Sam**: oh yeah no
+*01:20:25*
+
+**Sam**: Luke already wants to talk about
+*01:20:25*
+
+**Sam**: this is going to be a joke
+*01:20:27*
+
+**Sam**: so I have Jordan
+*01:20:28*
+
+**Sam**: who worked on
+*01:20:30*
+
+**Sam**: Claude.com
+*01:20:30*
+
+**Emily Harden**: uh huh
+*01:20:31*
+
+**Sam**: and I want to ask them yet but I want to do one of the talks again another major third local
+*01:20:33*
+
+**Sam**: speaker Luke also wants to do a talk Luke's talk he was telling me about a huge demonstrated
+*01:20:42*
+
+**Sam**: yesterday it's about the dangers of five cutting tools like cloud coding or cloud coding is one of
+*01:20:48*
+
+**Emily Harden**: I still love Luke's talk when he put QR codes around the place.
+*01:20:56*
+
+**Sam**: Oh.
+*01:21:01*
+
+**Emily Harden**: That was good.
+*01:21:02*
+
+**Emily Harden**: If he did that again, that'd be so good.
+*01:21:05*
+
+**Sam**: This is the part where I'm really excited about all of our speakers from Oklahoma.
+*01:21:08*
+
+**Sam**: I'm from Tulsa just because I don't have a lot of speakers.
+*01:21:15*
+
+**Sam**: And they're all good talks.
+*01:21:21*
+
+**Emily Harden**: What if you had a theme?
+*01:21:24*
+
+**Emily Harden**: I feel like 200OK has never had a theme.
+*01:21:26*
+
+**Emily Harden**: Thunderplans has never had a theme.
+*01:21:28*
+
+**Emily Harden**: They've never had themes.
+*01:21:29*
+
+**Emily Harden**: And the more I'm going to these conferences,
+*01:21:31*
+
+**Emily Harden**: the more I'm seeing themes.
+*01:21:32*
+
+**Emily Harden**: So maybe 200OK this year is a local theme.
+*01:21:35*
+
+**Emily Harden**: Like the theme is Oklahoma, local, right?
+*01:21:38*
+
+**Emily Harden**: And then you lean into it.
+*01:21:41*
+
+**Emily Harden**: You keep it local.
+*01:21:43*
+
+**Emily Harden**: You talk about local networks, potentially, right?
+*01:21:44*
+
+**Emily Harden**: Like keeping your system local.
+*01:21:47*
+
+**Emily Harden**: talking about, like, you know, privatizing stuff security-wise and stuff.
+*01:21:51*
+
+**Emily Harden**: I don't, I'm pulling words on my butt, but, you know, just an idea.
+*01:21:58*
+
+**Emily Harden**: Well, yeah.
+*01:22:06*
+
+**Emily Harden**: And if you did that, you could potentially get, like, local companies, local food, local places to do local things.
+*01:22:08*
+
+**Emily Harden**: Center of the universe.
+*01:22:19*
+
+**Emily Harden**: festival. I missed that.
+*01:22:23*
+
+**Emily Harden**: I was going to say something.
+*01:22:28*
+
+**Emily Harden**: Oh, there's another thing I wanted to do.
+*01:22:37*
+
+**Emily Harden**: It was for the speaker gifts, having an artist, a local artist,
+*01:22:39*
+
+**Emily Harden**: make something for your speaker.
+*01:22:45*
+
+**Emily Harden**: I thought that would be really cool.
+*01:22:48*
+
+**Emily Harden**: Probably expensive, but...
+*01:22:50*
+
+**Sam**: Yeah.
+*01:22:52*
+
+**Sam**: Well, there might be some that are doing it for free.
+*01:22:53*
+
+**Emily Harden**: Or buying their domain name for them for a year.
+*01:22:55*
+
+**Emily Harden**: Or...
+*01:23:00*
+
+**Emily Harden**: Speakers?
+*01:23:00*
+
+**Emily Harden**: Yeah.
+*01:23:01*
+
+**Emily Harden**: Like, buying their name.
+*01:23:02*
+
+**Emily Harden**: Like, samecarleton.com.
+*01:23:03*
+
+**Emily Harden**: Like, if they don't have it already, buy it for them for the year.
+*01:23:05*
+
+**Emily Harden**: Like, just random things like that that, like, are a little more unique as opposed to a pint glass.
+*01:23:07*
+
+**Emily Harden**: Yeah.
+*01:23:12*
+
+**Emily Harden**: People love the pint glass.
+*01:23:13*
+
+**Emily Harden**: The what?
+*01:23:14*
+
+**Emily Harden**: The pint glass.
+*01:23:15*
+
+**Emily Harden**: Yeah, pint glass.
+*01:23:16*
+
+**Emily Harden**: Pint glass, like beer.
+*01:23:17*
+
+**Emily Harden**: You drink beer in a pint glass.
+*01:23:18*
+
+**Emily Harden**: We had Teclahoma etched on the side.
+*01:23:20*
+
+**Emily Harden**: And it was a pint glass.
+*01:23:23*
+
+**Sam**: I didn't even hear about that.
+*01:23:24*
+
+**Emily Harden**: I actually have two.
+*01:23:26*
+
+**Emily Harden**: I was thinking of giving back to you also.
+*01:23:27*
+
+**Sam**: Yeah, if you want to.
+*01:23:30*
+
+**Sam**: Yeah.
+*01:23:31*
+
+**Sam**: I mean, you might want to keep one.
+*01:23:32*
+
+**Sam**: I know.
+*01:23:33*
+
+**Sam**: That's kind of one.
+*01:23:34*
+
+**Emily Harden**: Yeah, I have a quesadilla pint glass.
+*01:23:38*
+
+**Emily Harden**: And I have a B-sized pint glass.
+*01:23:41*
+
+**Background**: Alright, I think we got it.
+*01:23:48*
+
+**Background**: I think we got it.
+*01:23:49*
+
+**Background**: We used to have a bunch of money.
+*01:23:50*
 ```
 
 ## File: 03-Content/sessions/session-ai-in-government.md
