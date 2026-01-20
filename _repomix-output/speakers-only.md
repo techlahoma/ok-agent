@@ -94,7 +94,7 @@ Jane Doe is a data governance expert with extensive experience helping organizat
 ```markdown
 ---
 type: speaker
-name: "Tristan Kilgore"
+name: "Example Tristan Kilgore"
 organization: ""
 role: ""
 tags:
