@@ -1,7 +1,5 @@
 # Prevent RepoMix from processing its own outputs
-_repomix-output/
-**/repomix-output.*
-**/vault-rollup.*
+**/_rollup.md
 
 # Exclude system files
 .git/

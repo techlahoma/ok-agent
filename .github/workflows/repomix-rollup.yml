@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths-ignore:
-      - '_repomix-output/**'
+      - '**/_rollup.md'
   workflow_dispatch:
 
 jobs:
@@ -29,10 +29,6 @@ jobs:
             echo "skip=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Create output directory
-        if: steps.check_commit.outputs.skip != 'true'
-        run: mkdir -p _repomix-output
-
       - name: Setup Bun
         if: steps.check_commit.outputs.skip != 'true'
         uses: oven-sh/setup-bun@v2
@@ -48,30 +44,30 @@ jobs:
         run: |
           repomix \
             --include "01-Primary-Categories/**/*.md,02-Secondary-Categories/**/*.md,03-Content/**/*.md" \
-            --output "_repomix-output/full-vault-rollup.md" \
+            --output "_rollup.md" \
             --style markdown
 
-      - name: Generate sessions-only rollup
+      - name: Generate sessions rollup
         if: steps.check_commit.outputs.skip != 'true'
         run: |
           repomix \
             --include "03-Content/sessions/**/*.md" \
-            --output "_repomix-output/sessions-only.md" \
+            --output "03-Content/sessions/_rollup.md" \
             --style markdown
 
-      - name: Generate speakers-only rollup
+      - name: Generate speakers rollup
         if: steps.check_commit.outputs.skip != 'true'
         run: |
           repomix \
             --include "03-Content/speakers/**/*.md" \
-            --output "_repomix-output/speakers-only.md" \
+            --output "03-Content/speakers/_rollup.md" \
             --style markdown
 
       - name: Check for changes
         if: steps.check_commit.outputs.skip != 'true'
         id: check_changes
         run: |
-          git add _repomix-output/
+          git add _rollup.md 03-Content/sessions/_rollup.md 03-Content/speakers/_rollup.md
           if git diff --staged --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
