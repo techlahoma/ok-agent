@@ -641,36 +641,6 @@ Jane Doe is a data governance expert with extensive experience helping organizat
 **Primary:** [[01-Speakers]]
 ```
 
-## File: 03-Content/Things to plan.md
-```markdown
-- Sponsors
-    - [Progress.com](http://Progress.com)
-    - Atlas
-    - 
-    - Zeeco?
-
-- Swag: Stickers, Shirts, Hoodies
-    - Design Inspiration
-
-- Event Signage and print materials
-    - Title, H1, H2, H3 logo placements
-    - Printing
-    - Day of Schedule
-    - Venue map(Source from )
-
-- Food/Catering: Breakfast, Lunch, Dinner
-    - Breakfast Lunch Dinner Sponsors
-    - Sam has preferred caterer
-
-- Venue Prep
-
-- How many tables needed
-
-- AVL Testing
-
-- Speakers prep
-```
-
 ## File: 03-Content/speakers/speaker-tristan-kilgore.md
 ```markdown
 ---
@@ -716,4 +686,34 @@ Tristan Kilgore is a technology professional with expertise in artificial intell
 
 ## Categories
 **Primary:** [[01-Speakers]]
+```
+
+## File: 03-Content/Things to plan.md
+```markdown
+- Sponsors
+    - [Progress.com](http://Progress.com)
+    - Atlas
+    - Zeeco?
+
+- Swag: Stickers, Shirts, Hoodies
+    - Design Inspiration
+
+- Event Signage and print materials
+    - Title, H1, H2, H3 logo placements
+    - Printing
+    - Day of Schedule
+    - Venue map(Source from )
+
+- Food/Catering: Breakfast, Lunch, Dinner
+    - Breakfast Lunch Dinner Sponsors
+    - Sam has preferred caterer
+
+- Venue Prep
+    - Plan venue prep and clean up
+
+- How many tables needed
+
+- AVL Testing
+
+- Speakers prep
 ```
