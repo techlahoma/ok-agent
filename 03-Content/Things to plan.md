@@ -2,7 +2,6 @@
 - Sponsors
     - [Progress.com](http://Progress.com)
     - Atlas
-    - 
     - Zeeco?
 
 - Swag: Stickers, Shirts, Hoodies
@@ -19,6 +18,7 @@
     - Sam has preferred caterer
 
 - Venue Prep
+    - Plan venue prep and clean up
 
 - How many tables needed
 
